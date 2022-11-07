@@ -1,0 +1,96 @@
+/* Richard Davies, Data Science for Economists */
+
+/* This is my first proper css file */
+
+
+/* Import a font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+/* Set the background color for my page: */
+body{
+    background-color: rgb(35, 35, 201);
+ 
+}
+
+
+/* Choose the appearance of the tags, h1, h3 and p: */
+h1, h3, p{
+    color:rgb(17, 17, 17);
+    font-family: 'Roboto Condensed', 'Regular 400';
+    text-align: center;
+}
+    
+.myWeek1{
+    margin: auto;
+    max-width: 800px;
+   
+    background-color: rgb(168, 161, 153);
+}
+
+
+/* Set the apperance of the class, chart */
+.chart{
+    background-color: rgb(0, 255, 234);
+    width:330px;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(0, 42, 255);
+
+    
+}
+
+.Portfolio {
+    border-color: #941616;
+    color: #941616;
+    font-size: 30px;
+    font-family: 'Roboto Condensed', 'Regular 400';
+    position: absolute;
+    left: 350px;
+    top: 100px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,1), 0 6px 20px 0 rgba(0,0,0,0.19);
+    width: 200px;
+    border-radius: 12px;
+  }
+  
+  .Portfolio:hover {
+    background: #941616;
+    color: white;
+    font-size: 30px;
+    font-family: 'Roboto Condensed', 'Regular 400';
+    position: absolute;
+    left: 350px;
+    top: 100px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,1), 0 6px 20px 0 rgba(0,0,0,0.19);
+    width: 200px;
+    border-radius: 12px;
+  }
+
+  .Coursework {
+    border-color: #941616;
+    color: #941616;
+    font-size: 30px;
+    font-family: 'Roboto Condensed', 'Regular 400';
+    position: absolute;
+    left: 630px;
+    top: 100px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,1), 0 6px 20px 0 rgba(0,0,0,0.19);
+    width: 200px;
+    border-radius: 12px;
+  }
+  
+  .Coursework:hover {
+    background: #941616;
+    color: white;
+    font-size: 30px;
+    font-family: 'Roboto Condensed', 'Regular 400';
+    position: absolute;
+    left: 630px;
+    top: 100px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,1), 0 6px 20px 0 rgba(0,0,0,0.19);
+    width: 200px;
+    border-radius: 12px;
+  }
+  
+    
