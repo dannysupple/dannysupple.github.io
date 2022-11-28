@@ -1,0 +1,18 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Google's stock price over time.",
+  "data": {
+    "url": "https://raw.githubusercontent.com/dannysupple/dannysupple.github.io/main/wiidglobal_12.csv"
+  },
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "year", "type": "temporal", "title": "Year"},
+    "y": {
+      "field": "top5",
+      "type": "quantitative",
+      "title": "Share of wealth (%)",
+      "scale": {"domain": [0, 100]}
+    }
+  },
+  "config": {}
+}

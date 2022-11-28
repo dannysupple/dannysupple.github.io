@@ -1,0 +1,30 @@
+p{
+    color: black;
+    font-family: "Open Sans", sans-serif;
+}
+
+body{
+    background: #87CEFA;
+}
+
+.chart1{     
+width: 200px;
+display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.chart2{
+  width: 200px;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.chart3{
+    width: 200px;
+    display: block;
+      margin-left: auto;
+      margin-right: auto;
+}
+

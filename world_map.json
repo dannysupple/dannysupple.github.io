@@ -1,0 +1,13 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 700,
+  "height": 500,
+  "data": {
+    "url": "https://raw.githubusercontent.com/dannysupple/dannysupple.github.io/main/custom.geo.json",
+    "format": {"property": "features"}
+  },
+  "projection": {"type": "mercator"},
+  "mark": {"type": "geoshape", "stroke": "darkgray", "strokeWidth": 0.5},
+  "encoding": {"tooltip": {"field": "properties.name", "type": "nominal"}},
+  "config": {}
+}

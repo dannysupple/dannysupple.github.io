@@ -1,0 +1,43 @@
+<html>
+
+<head>
+   
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Coursework</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
+
+
+    <!-- Link to my style sheet -->
+ 
+    <link rel="stylesheet" href="Coursework.css">
+</head>
+
+
+ <body>
+
+    <p>This first map shows the number of World Cup appearances for each country</p>
+ <div class="chart1" id="Chart1"></div>
+
+ <p>This second map shows the current GDP per capita for each country</p>
+  <div class="chart2" id="Chart2"></div>
+
+  <p>This thirs map shows the current GDP for each country</p>
+  <div class="chart3" id="Chart3"></div>
+
+ <script>
+ var myChart1 = "map_wcapps.json";
+ var myChart2 = "map_worldgdppc.json";
+ var myChart3 = "map_gdp.json";
+ vegaEmbed('#Chart1', myChart1);
+ vegaEmbed('#Chart2', myChart2);
+ vegaEmbed('#Chart3', myChart3);
+</script>
+
+</body>
+
+</html>
