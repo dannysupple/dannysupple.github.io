@@ -1,4 +1,4 @@
-Country,2021.00,Points
+Country,GDP per capita,Points
 Albania,14559.68,0.754
 Algeria,10969.25,1.649
 Angola,6344.15,1.522
@@ -35,7 +35,7 @@ Comoros,2878.32,0.4
 Democratic Republic of the Congo,1097.80,1.631
 Republic of Congo,3909.88,1.162
 Costa Rica,20536.95,1.743
-Côte d'Ivoire,5286.96,1.917
+CÃ´te d'Ivoire,5286.96,1.917
 Croatia,29928.05,2.069
 Djibouti,5419.97,0.381
 Dominica,10497.05,0.708
@@ -132,7 +132,7 @@ Togo,2163.58,1.254
 Tonga,5768.54,1
 Trinidad and Tobago,24465.91,1.418
 Tunisia,10481.46,1.929
-Türkiye,31752.91,1.338
+TÃ¼rkiye,31752.91,1.338
 Turkmenistan,16082.94,1.413
 Tuvalu,4840.27,0.25
 Uganda,2530.62,1.312
