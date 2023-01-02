@@ -1,0 +1,293 @@
+﻿Country,value,type,pts
+Algeria,10969.25,gdppc,12
+Angola,6344.15,gdppc,2
+Argentina,21511.59,gdppc,157
+Australia,51349.49,gdppc,16
+Austria,54395.78,gdppc,40
+Belgium,51934.17,gdppc,73
+Bolivia,8242.89,gdppc,1
+Bosnia and Herzegovina,14813.49,gdppc,3
+Brazil,14710.22,gdppc,247
+Bulgaria,23712.9,gdppc,17
+Cameroon,3707.7,gdppc,23
+Canada,48218.96,gdppc,0
+Chile,24311.6,gdppc,40
+China,17531.14,gdppc,0
+Colombia,14931.36,gdppc,30
+Costa Rica,20536.95,gdppc,23
+CÙte d'Ivoire,5286.96,gdppc,10
+Croatia,29928.05,gdppc,44
+Czech Republic,40917.25,gdppc,41
+Denmark,58298.05,gdppc,33
+Ecuador,10693.41,gdppc,17
+Egypt,12976.29,gdppc,2
+El Salvador,8800.42,gdppc,0
+England,45839.15,gdppc,118
+France,46716.37,gdppc,130
+Germany,53484.02,gdppc,225
+Ghana,5684.34,gdppc,18
+Greece,29337.36,gdppc,8
+Haiti,2759.66,gdppc,0
+Honduras,5661.24,gdppc,3
+Hungary,33862.59,gdppc,48
+Iceland,54583.86,gdppc,1
+Indonesia,11923.69,gdppc,0
+Islamic Republic of Iran,15549.76,gdppc,13
+Ireland,103102.56,gdppc,14
+Iraq,9901.6,gdppc,0
+Israel,42471.84,gdppc,2
+Italy,42044.62,gdppc,156
+Jamaica,9899.3,gdppc,3
+Japan,40662.24,gdppc,27
+Korea,44286.73,gdppc,31
+Kuwait,40969.13,gdppc,1
+Mexico,18837.56,gdppc,66
+Morocco,8353.36,gdppc,22
+Netherlands,57059.34,gdppc,104
+New Zealand,42409.43,gdppc,3
+Nigeria,4969.21,gdppc,21
+Norway,64442.53,gdppc,9
+Panama,29130.71,gdppc,0
+Paraguay,12490.78,gdppc,31
+Peru,12764.3,gdppc,18
+Poland,34586.93,gdppc,57
+Portugal,33581.28,gdppc,57
+Qatar,95340.3,gdppc,0
+Romania,30890.7,gdppc,29
+Russia,28104.88,gdppc,67
+Saudi Arabia,44954.01,gdppc,14
+Senegal,3429.06,gdppc,18
+Serbia,19695.03,gdppc,63
+Slovak Republic,32280.15,gdppc,4
+Slovenia,40199.05,gdppc,4
+South Africa,13145.76,gdppc,10
+Spain,38083.48,gdppc,110
+Sweden,54239.69,gdppc,70
+Switzerland,70764.02,gdppc,50
+Togo,2163.58,gdppc,0
+Trinidad and Tobago,24465.91,gdppc,1
+Tunisia,10481.46,gdppc,14
+T¸rkiye,31752.91,gdppc,16
+Ukraine,13039.97,gdppc,7
+United Arab Emirates,64697.99,gdppc,0
+United States,63014.33,gdppc,35
+Uruguay,22058.27,gdppc,88
+Algeria,44.462,pop,12
+Angola,31.962,pop,2
+Argentina,45.842,pop,157
+Australia,25.767,pop,16
+Austria,8.946,pop,40
+Belgium,11.555,pop,73
+Bolivia,11.8,pop,1
+Bosnia and Herzegovina,3.481,pop,3
+Brazil,212.609,pop,247
+Bulgaria,6.839,pop,17
+Cameroon,27.224,pop,23
+Canada,38.226,pop,0
+Chile,19.718,pop,40
+China,"1,412.60",pop,0
+Colombia,51.049,pop,30
+Costa Rica,5.18,pop,23
+CÙte d'Ivoire,27.659,pop,10
+Croatia,4.034,pop,44
+Czech Republic,10.495,pop,41
+Denmark,5.84,pop,33
+Ecuador,17.757,pop,17
+Egypt,102.1,pop,2
+El Salvador,6.519,pop,0
+England,55.98,pop,118
+France,65.447,pop,130
+Germany,83.196,pop,225
+Ghana,31.394,pop,18
+Greece,10.679,pop,8
+Haiti,11.906,pop,0
+Honduras,10.117,pop,3
+Hungary,9.731,pop,48
+Iceland,0.369,pop,1
+Indonesia,272.249,pop,0
+Islamic Republic of Iran,84.841,pop,13
+Ireland,41.176,pop,14
+Iraq,5.039,pop,0
+Israel,9.367,pop,2
+Italy,59.236,pop,156
+Jamaica,2.74,pop,3
+Japan,125.507,pop,27
+Korea,51.736,pop,31
+Kuwait,4.736,pop,1
+Mexico,128.972,pop,66
+Morocco,36.313,pop,22
+Netherlands,17.475,pop,104
+New Zealand,5.112,pop,3
+Nigeria,211.401,pop,21
+Norway,5.415,pop,9
+Panama,4.337,pop,0
+Paraguay,7.353,pop,31
+Peru,33.829,pop,18
+Poland,37.84,pop,57
+Portugal,10.292,pop,57
+Qatar,2.618,pop,0
+Romania,19.202,pop,29
+Russia,145.558,pop,67
+Saudi Arabia,35.459,pop,14
+Senegal,17.204,pop,18
+Serbia,6.872,pop,63
+Slovak Republic,15.189,pop,4
+Slovenia,60.143,pop,4
+South Africa,22.156,pop,10
+Spain,0.182,pop,110
+Sweden,10.452,pop,70
+Switzerland,8.67,pop,50
+Togo,8.49,pop,0
+Trinidad and Tobago,1.407,pop,1
+Tunisia,12.019,pop,14
+T¸rkiye,84.68,pop,16
+Ukraine,41.077,pop,7
+United Arab Emirates,10.187,pop,0
+United States,332.183,pop,35
+Uruguay,3.543,pop,88
+Algeria,37.128,exp_gdp,12
+Angola,19.394,exp_gdp,2
+Argentina,37.832,exp_gdp,157
+Australia,42.318,exp_gdp,16
+Austria,55.979,exp_gdp,40
+Belgium,54.912,exp_gdp,73
+Bolivia,34.398,exp_gdp,1
+Bosnia and Herzegovina,40.169,exp_gdp,3
+Brazil,35.942,exp_gdp,247
+Bulgaria,40.42,exp_gdp,17
+Cameroon,16.523,exp_gdp,23
+Canada,46.001,exp_gdp,0
+Chile,33.466,exp_gdp,40
+China,32.713,exp_gdp,0
+Colombia,34.513,exp_gdp,30
+Costa Rica,20.95,exp_gdp,23
+CÙte d'Ivoire,20.859,exp_gdp,10
+Croatia,49.248,exp_gdp,44
+Czech Republic,46.482,exp_gdp,41
+Denmark,50.81,exp_gdp,33
+Ecuador,35.51,exp_gdp,17
+Egypt,25.965,exp_gdp,2
+El Salvador,32.016,exp_gdp,0
+England,,exp_gdp,118
+France,59.052,exp_gdp,130
+Germany,51.253,exp_gdp,225
+Ghana,25.681,exp_gdp,18
+Greece,56.871,exp_gdp,8
+Haiti,10.838,exp_gdp,0
+Honduras,28.424,exp_gdp,3
+Hungary,47.919,exp_gdp,48
+Iceland,49.234,exp_gdp,1
+Indonesia,18.212,exp_gdp,0
+Islamic Republic of Iran,12.378,exp_gdp,13
+Ireland,36.052,exp_gdp,14
+Iraq,24.821,exp_gdp,0
+Israel,40.388,exp_gdp,2
+Italy,55.45,exp_gdp,156
+Jamaica,29.503,exp_gdp,3
+Japan,42.52,exp_gdp,27
+Korea,25.845,exp_gdp,31
+Kuwait,52.401,exp_gdp,1
+Mexico,27.073,exp_gdp,66
+Morocco,30.123,exp_gdp,22
+Netherlands,46.581,exp_gdp,104
+New Zealand,42.409,exp_gdp,3
+Nigeria,13.297,exp_gdp,21
+Norway,48.185,exp_gdp,9
+Panama,24.829,exp_gdp,0
+Paraguay,25.309,exp_gdp,31
+Peru,23.551,exp_gdp,18
+Poland,44.2,exp_gdp,57
+Portugal,48.148,exp_gdp,57
+Qatar,29.377,exp_gdp,0
+Romania,37.51,exp_gdp,29
+Russia,35.929,exp_gdp,67
+Saudi Arabia,33.238,exp_gdp,14
+Senegal,25.739,exp_gdp,18
+Serbia,35.125,exp_gdp,63
+Slovak Republic,46.833,exp_gdp,4
+Slovenia,48.934,exp_gdp,4
+South Africa,32.976,exp_gdp,10
+Spain,50.601,exp_gdp,110
+Sweden,49.857,exp_gdp,70
+Switzerland,35.038,exp_gdp,50
+Togo,22.952,exp_gdp,0
+Trinidad and Tobago,32.196,exp_gdp,1
+Tunisia,33.184,exp_gdp,14
+T¸rkiye,31.198,exp_gdp,16
+Ukraine,40.266,exp_gdp,7
+United Arab Emirates,28.896,exp_gdp,0
+United States,42.364,exp_gdp,35
+Uruguay,30.918,exp_gdp,88
+Algeria,535.8,gdp,12
+Angola,4.64,gdp,2
+Argentina,1.96,gdp,157
+Australia,4.55,gdp,16
+Austria,1453.55,gdp,40
+Belgium,202.8,gdp,73
+Bolivia,8.92,gdp,1
+Bosnia and Herzegovina,106.86,gdp,3
+Brazil,42.2,gdp,247
+Bulgaria,29.42,gdp,17
+Cameroon,79.32,gdp,23
+Canada,110.89,gdp,0
+Chile,27.04,gdp,40
+China,526.64,gdp,0
+Colombia,1465.54,gdp,30
+Costa Rica,116.87,gdp,23
+CÙte d'Ivoire,160.65,gdp,10
+Croatia,132.62,gdp,44
+Czech Republic,471.76,gdp,41
+Denmark,374.03,gdp,33
+Ecuador,208.6,gdp,17
+Egypt,1455.5,gdp,2
+El Salvador,63.02,gdp,0
+England,3776,gdp,118
+France,3358.91,gdp,130
+Germany,4888.36,gdp,225
+Ghana,196.05,gdp,18
+Greece,344.17,gdp,8
+Haiti,36.1,gdp,0
+Honduras,62.92,gdp,3
+Hungary,362,gdp,48
+Iceland,22.12,gdp,1
+Indonesia,3566.26,gdp,0
+Islamic Republic of Iran,1449.33,gdp,13
+Ireland,570.72,gdp,14
+Iraq,447.9,gdp,0
+Israel,437.08,gdp,2
+Italy,2734.61,gdp,156
+Jamaica,29.8,gdp,3
+Japan,5606.55,gdp,27
+Korea,2517.13,gdp,31
+Kuwait,213.16,gdp,1
+Mexico,2669.06,gdp,66
+Morocco,333.24,gdp,22
+Netherlands,1095.45,gdp,104
+New Zealand,238.15,gdp,3
+Nigeria,1154.07,gdp,21
+Norway,383.37,gdp,9
+Panama,138.81,gdp,0
+Paraguay,100.9,gdp,31
+Peru,474.37,gdp,18
+Poland,1437.81,gdp,57
+Portugal,379.69,gdp,57
+Qatar,274.25,gdp,0
+Romania,651.64,gdp,29
+Russia,4494.22,gdp,67
+Saudi Arabia,1751.18,gdp,14
+Senegal,64.81,gdp,18
+Serbia,1.38,gdp,63
+Slovak Republic,193.62,gdp,4
+Slovenia,93.14,gdp,4
+South Africa,868.58,gdp,10
+Spain,1983.11,gdp,110
+Sweden,622.83,gdp,70
+Switzerland,674.01,gdp,50
+Togo,20.18,gdp,0
+Trinidad and Tobago,37.81,gdp,1
+Tunisia,138.39,gdp,14
+T¸rkiye,2953.94,gdp,16
+Ukraine,588.45,gdp,7
+United Arab Emirates,724.07,gdp,0
+United States,,gdp,35
+Uruguay,85.86,gdp,88
