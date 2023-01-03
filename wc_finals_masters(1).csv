@@ -1,0 +1,276 @@
+﻿Country,value,type,pts
+Algeria,10969.25,GDP per capita,12
+Angola,6344.15,GDP per capita,2
+Argentina,21511.59,GDP per capita,157
+Australia,51349.49,GDP per capita,16
+Austria,54395.78,GDP per capita,40
+Belgium,51934.17,GDP per capita,73
+Bolivia,8242.89,GDP per capita,1
+Bosnia and Herzegovina,14813.49,GDP per capita,3
+Brazil,14710.22,GDP per capita,247
+Bulgaria,23712.9,GDP per capita,17
+Cameroon,3707.7,GDP per capita,23
+Canada,48218.96,GDP per capita,0
+Chile,24311.6,GDP per capita,40
+China,17531.14,GDP per capita,0
+Colombia,14931.36,GDP per capita,30
+Costa Rica,20536.95,GDP per capita,23
+CÙte d'Ivoire,5286.96,GDP per capita,10
+Croatia,29928.05,GDP per capita,44
+Czech Republic,40917.25,GDP per capita,41
+Denmark,58298.05,GDP per capita,33
+Ecuador,10693.41,GDP per capita,17
+Egypt,12976.29,GDP per capita,2
+El Salvador,8800.42,GDP per capita,0
+England,45839.15,GDP per capita,118
+France,46716.37,GDP per capita,130
+Germany,53484.02,GDP per capita,225
+Ghana,5684.34,GDP per capita,18
+Greece,29337.36,GDP per capita,8
+Haiti,2759.66,GDP per capita,0
+Honduras,5661.24,GDP per capita,3
+Hungary,33862.59,GDP per capita,48
+Iceland,54583.86,GDP per capita,1
+Indonesia,11923.69,GDP per capita,0
+Islamic Republic of Iran,15549.76,GDP per capita,13
+Ireland,103102.56,GDP per capita,14
+Iraq,9901.6,GDP per capita,0
+Israel,42471.84,GDP per capita,2
+Italy,42044.62,GDP per capita,156
+Jamaica,9899.3,GDP per capita,3
+Japan,40662.24,GDP per capita,27
+Korea,44286.73,GDP per capita,31
+Kuwait,40969.13,GDP per capita,1
+Mexico,18837.56,GDP per capita,66
+Morocco,8353.36,GDP per capita,22
+Netherlands,57059.34,GDP per capita,104
+New Zealand,42409.43,GDP per capita,3
+Nigeria,4969.21,GDP per capita,21
+Norway,64442.53,GDP per capita,9
+Panama,29130.71,GDP per capita,0
+Paraguay,12490.78,GDP per capita,31
+Peru,12764.3,GDP per capita,18
+Poland,34586.93,GDP per capita,57
+Portugal,33581.28,GDP per capita,57
+Qatar,95340.3,GDP per capita,0
+Romania,30890.7,GDP per capita,29
+Russia,28104.88,GDP per capita,67
+Saudi Arabia,44954.01,GDP per capita,14
+Senegal,3429.06,GDP per capita,18
+Serbia,19695.03,GDP per capita,63
+Slovak Republic,32280.15,GDP per capita,4
+Slovenia,40199.05,GDP per capita,4
+South Africa,13145.76,GDP per capita,10
+Spain,38083.48,GDP per capita,110
+Sweden,54239.69,GDP per capita,70
+Switzerland,70764.02,GDP per capita,50
+Togo,2163.58,GDP per capita,0
+Trinidad and Tobago,24465.91,GDP per capita,1
+Tunisia,10481.46,GDP per capita,14
+T¸rkiye,31752.91,GDP per capita,16
+Ukraine,13039.97,GDP per capita,7
+United Arab Emirates,64697.99,GDP per capita,0
+United States,63014.33,GDP per capita,35
+Uruguay,22058.27,GDP per capita,88
+Algeria,44.462,Population (millions),12
+Angola,31.962,Population (millions),2
+Argentina,45.842,Population (millions),157
+Australia,25.767,Population (millions),16
+Austria,8.946,Population (millions),40
+Belgium,11.555,Population (millions),73
+Bolivia,11.8,Population (millions),1
+Bosnia and Herzegovina,3.481,Population (millions),3
+Brazil,212.609,Population (millions),247
+Bulgaria,6.839,Population (millions),17
+Cameroon,27.224,Population (millions),23
+Canada,38.226,Population (millions),0
+Chile,19.718,Population (millions),40
+China,"1,412.60",Population (millions),0
+Colombia,51.049,Population (millions),30
+Costa Rica,5.18,Population (millions),23
+CÙte d'Ivoire,27.659,Population (millions),10
+Croatia,4.034,Population (millions),44
+Czech Republic,10.495,Population (millions),41
+Denmark,5.84,Population (millions),33
+Ecuador,17.757,Population (millions),17
+Egypt,102.1,Population (millions),2
+El Salvador,6.519,Population (millions),0
+England,55.98,Population (millions),118
+France,65.447,Population (millions),130
+Germany,83.196,Population (millions),225
+Ghana,31.394,Population (millions),18
+Greece,10.679,Population (millions),8
+Haiti,11.906,Population (millions),0
+Honduras,10.117,Population (millions),3
+Hungary,9.731,Population (millions),48
+Iceland,0.369,Population (millions),1
+Indonesia,272.249,Population (millions),0
+Islamic Republic of Iran,84.841,Population (millions),13
+Ireland,41.176,Population (millions),14
+Iraq,5.039,Population (millions),0
+Israel,9.367,Population (millions),2
+Italy,59.236,Population (millions),156
+Jamaica,2.74,Population (millions),3
+Japan,125.507,Population (millions),27
+Korea,51.736,Population (millions),31
+Kuwait,4.736,Population (millions),1
+Mexico,128.972,Population (millions),66
+Morocco,36.313,Population (millions),22
+Netherlands,17.475,Population (millions),104
+New Zealand,5.112,Population (millions),3
+Nigeria,211.401,Population (millions),21
+Norway,5.415,Population (millions),9
+Panama,4.337,Population (millions),0
+Paraguay,7.353,Population (millions),31
+Peru,33.829,Population (millions),18
+Poland,37.84,Population (millions),57
+Portugal,10.292,Population (millions),57
+Qatar,2.618,Population (millions),0
+Romania,19.202,Population (millions),29
+Russia,145.558,Population (millions),67
+Saudi Arabia,35.459,Population (millions),14
+Senegal,17.204,Population (millions),18
+Serbia,6.872,Population (millions),63
+Slovak Republic,15.189,Population (millions),4
+Slovenia,60.143,Population (millions),4
+South Africa,22.156,Population (millions),10
+Spain,0.182,Population (millions),110
+Sweden,10.452,Population (millions),70
+Switzerland,8.67,Population (millions),50
+Togo,8.49,Population (millions),0
+Trinidad and Tobago,1.407,Population (millions),1
+Tunisia,12.019,Population (millions),14
+T¸rkiye,84.68,Population (millions),16
+Ukraine,41.077,Population (millions),7
+United Arab Emirates,10.187,Population (millions),0
+United States,332.183,Population (millions),35
+Uruguay,3.543,Population (millions),88
+Algeria,37.128,Expenditure/GDP,12
+Angola,19.394,Expenditure/GDP,2
+Argentina,37.832,Expenditure/GDP,157
+Australia,42.318,Expenditure/GDP,16
+Austria,55.979,Expenditure/GDP,40
+Belgium,54.912,Expenditure/GDP,73
+Bolivia,34.398,Expenditure/GDP,1
+Bosnia and Herzegovina,40.169,Expenditure/GDP,3
+Brazil,35.942,Expenditure/GDP,247
+Bulgaria,40.42,Expenditure/GDP,17
+Cameroon,16.523,Expenditure/GDP,23
+Canada,46.001,Expenditure/GDP,0
+Chile,33.466,Expenditure/GDP,40
+China,32.713,Expenditure/GDP,0
+Colombia,34.513,Expenditure/GDP,30
+Costa Rica,20.95,Expenditure/GDP,23
+CÙte d'Ivoire,20.859,Expenditure/GDP,10
+Croatia,49.248,Expenditure/GDP,44
+Czech Republic,46.482,Expenditure/GDP,41
+Denmark,50.81,Expenditure/GDP,33
+Ecuador,35.51,Expenditure/GDP,17
+Egypt,25.965,Expenditure/GDP,2
+El Salvador,32.016,Expenditure/GDP,0
+France,59.052,Expenditure/GDP,130
+Germany,51.253,Expenditure/GDP,225
+Ghana,25.681,Expenditure/GDP,18
+Greece,56.871,Expenditure/GDP,8
+Haiti,10.838,Expenditure/GDP,0
+Honduras,28.424,Expenditure/GDP,3
+Hungary,47.919,Expenditure/GDP,48
+Iceland,49.234,Expenditure/GDP,1
+Indonesia,18.212,Expenditure/GDP,0
+Islamic Republic of Iran,12.378,Expenditure/GDP,13
+Ireland,36.052,Expenditure/GDP,14
+Iraq,24.821,Expenditure/GDP,0
+Israel,40.388,Expenditure/GDP,2
+Italy,55.45,Expenditure/GDP,156
+Jamaica,29.503,Expenditure/GDP,3
+Japan,42.52,Expenditure/GDP,27
+Korea,25.845,Expenditure/GDP,31
+Kuwait,52.401,Expenditure/GDP,1
+Mexico,27.073,Expenditure/GDP,66
+Morocco,30.123,Expenditure/GDP,22
+Netherlands,46.581,Expenditure/GDP,104
+New Zealand,42.409,Expenditure/GDP,3
+Nigeria,13.297,Expenditure/GDP,21
+Norway,48.185,Expenditure/GDP,9
+Panama,24.829,Expenditure/GDP,0
+Paraguay,25.309,Expenditure/GDP,31
+Peru,23.551,Expenditure/GDP,18
+Poland,44.2,Expenditure/GDP,57
+Portugal,48.148,Expenditure/GDP,57
+Qatar,29.377,Expenditure/GDP,0
+Romania,37.51,Expenditure/GDP,29
+Russia,35.929,Expenditure/GDP,67
+Saudi Arabia,33.238,Expenditure/GDP,14
+Senegal,25.739,Expenditure/GDP,18
+Serbia,35.125,Expenditure/GDP,63
+Slovak Republic,46.833,Expenditure/GDP,4
+Slovenia,48.934,Expenditure/GDP,4
+South Africa,32.976,Expenditure/GDP,10
+Spain,50.601,Expenditure/GDP,110
+Sweden,49.857,Expenditure/GDP,70
+Switzerland,35.038,Expenditure/GDP,50
+Togo,22.952,Expenditure/GDP,0
+Trinidad and Tobago,32.196,Expenditure/GDP,1
+Tunisia,33.184,Expenditure/GDP,14
+T¸rkiye,31.198,Expenditure/GDP,16
+Ukraine,40.266,Expenditure/GDP,7
+United Arab Emirates,28.896,Expenditure/GDP,0
+United States,42.364,Expenditure/GDP,35
+Uruguay,30.918,Expenditure/GDP,88
+Algeria,535.8,"GDP(PPP, thousand millions)",12
+Angola,222.77,"GDP(PPP, thousand millions)",2
+Argentina,1083.36,"GDP(PPP, thousand millions)",157
+Australia,1453.55,"GDP(PPP, thousand millions)",16
+Austria,534.57,"GDP(PPP, thousand millions)",40
+Belgium,659.25,"GDP(PPP, thousand millions)",73
+Bolivia,106.86,"GDP(PPP, thousand millions)",1
+Bosnia and Herzegovina,56.65,"GDP(PPP, thousand millions)",3
+Brazil,3435.87,"GDP(PPP, thousand millions)",247
+Bulgaria,178.16,"GDP(PPP, thousand millions)",17
+Cameroon,110.89,"GDP(PPP, thousand millions)",23
+Canada,2024.96,"GDP(PPP, thousand millions)",0
+Chile,526.64,"GDP(PPP, thousand millions)",40
+Colombia,837.39,"GDP(PPP, thousand millions)",30
+Costa Rica,116.87,"GDP(PPP, thousand millions)",23
+CÙte d'Ivoire,160.65,"GDP(PPP, thousand millions)",10
+Croatia,132.62,"GDP(PPP, thousand millions)",44
+Czech Republic,471.76,"GDP(PPP, thousand millions)",41
+Denmark,374.03,"GDP(PPP, thousand millions)",33
+Ecuador,208.6,"GDP(PPP, thousand millions)",17
+Egypt,1455.5,"GDP(PPP, thousand millions)",2
+France,3358.91,"GDP(PPP, thousand millions)",130
+Germany,4888.36,"GDP(PPP, thousand millions)",225
+Ghana,196.05,"GDP(PPP, thousand millions)",18
+Greece,344.17,"GDP(PPP, thousand millions)",8
+Honduras,62.92,"GDP(PPP, thousand millions)",3
+Hungary,362,"GDP(PPP, thousand millions)",48
+Iceland,22.12,"GDP(PPP, thousand millions)",1
+Islamic Republic of Iran,1449.33,"GDP(PPP, thousand millions)",13
+Israel,437.08,"GDP(PPP, thousand millions)",2
+Italy,2734.61,"GDP(PPP, thousand millions)",156
+Jamaica,29.8,"GDP(PPP, thousand millions)",3
+Japan,5606.55,"GDP(PPP, thousand millions)",27
+Korea,2517.13,"GDP(PPP, thousand millions)",31
+Mexico,2669.06,"GDP(PPP, thousand millions)",66
+Netherlands,1095.45,"GDP(PPP, thousand millions)",104
+Paraguay,100.9,"GDP(PPP, thousand millions)",31
+Peru,474.37,"GDP(PPP, thousand millions)",18
+Poland,1437.81,"GDP(PPP, thousand millions)",57
+Portugal,379.69,"GDP(PPP, thousand millions)",57
+Romania,651.64,"GDP(PPP, thousand millions)",29
+Russia,4494.22,"GDP(PPP, thousand millions)",67
+Saudi Arabia,1751.18,"GDP(PPP, thousand millions)",14
+Senegal,64.81,"GDP(PPP, thousand millions)",18
+Serbia,148.68,"GDP(PPP, thousand millions)",63
+Slovenia,93.14,"GDP(PPP, thousand millions)",4
+South Africa,868.58,"GDP(PPP, thousand millions)",10
+Spain,1983.11,"GDP(PPP, thousand millions)",110
+Sweden,622.83,"GDP(PPP, thousand millions)",70
+Switzerland,674.01,"GDP(PPP, thousand millions)",50
+Togo,20.18,"GDP(PPP, thousand millions)",0
+Trinidad and Tobago,37.81,"GDP(PPP, thousand millions)",14
+Tunisia,138.39,"GDP(PPP, thousand millions)",16
+T¸rkiye,2953.94,"GDP(PPP, thousand millions)",7
+Ukraine,588.45,"GDP(PPP, thousand millions)",0
+United Arab Emirates,724.07,"GDP(PPP, thousand millions)",35
+Uruguay,85.86,"GDP(PPP, thousand millions)",88
