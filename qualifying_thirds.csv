@@ -1,0 +1,16 @@
+﻿Group,Type,Average points
+Low GDP per capita,GDP per capita,1.0393
+Mid GDP per capita ,GDP per capita,1.2176
+High GDP per capita,GDP per capita,1.414
+Low population,Population ,0.857
+Mid population,Population ,1.3625
+Large population,Population ,1.4479
+Low expenditure,Government expenditure,1.153
+Mid expenditure,Government expenditure,1.183
+High Expenditure,Government expenditure,1.322
+Low VA,Voice and Accountability ,1.198
+Mid VA,Voice and Accountability ,1.199
+High VA,Voice and Accountability ,1.368
+Low GDP ,GDP (PPP),0.842
+Mid GDP,GDP (PPP),1.2397
+High GDP,GDP (PPP),1.557
