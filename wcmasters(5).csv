@@ -1,0 +1,929 @@
+﻿Country,value,type,q pts
+Albania,14559.68,GDP per capita,0.754
+Algeria,10969.25,GDP per capita,1.649
+Andorra,53143.21,GDP per capita,0.242
+Angola,6344.15,GDP per capita,1.522
+Antigua and Barbuda,17946.51,GDP per capita,1.109
+Argentina,21511.59,GDP per capita,1.961
+Armenia,13345.27,GDP per capita,0.778
+Aruba,37998.95,GDP per capita,0.8
+Australia,51349.49,GDP per capita,2.019
+Austria,54395.78,GDP per capita,1.649
+Azerbaijan,14473.4,GDP per capita,0.545
+The Bahamas,31654.63,GDP per capita,0.889
+Bahrain,48592.83,GDP per capita,1.385
+Bangladesh,6411.43,GDP per capita,0.655
+Barbados,13349.44,GDP per capita,0.951
+Belarus,19743,GDP per capita,0.818
+Belgium,51934.17,GDP per capita,1.957
+Belize,8062.77,GDP per capita,1.034
+Benin,3457.17,GDP per capita,1.12
+Bhutan,10790.92,GDP per capita,0.75
+Bolivia,8242.89,GDP per capita,0.958
+Bosnia and Herzegovina,14813.49,GDP per capita,1.53
+Botswana,16001.59,GDP per capita,1
+Brazil,14710.22,GDP per capita,2.197
+Brunei Darussalam,62276.62,GDP per capita,0.375
+Bulgaria,23712.9,GDP per capita,1.569
+Burkina Faso,2241.66,GDP per capita,1.515
+Burundi,733.16,GDP per capita,1.182
+Cabo Verde,6995.33,GDP per capita,1.325
+Cambodia,4559.47,GDP per capita,0.444
+Cameroon,3707.7,GDP per capita,2.032
+Canada,48218.96,GDP per capita,1.635
+Central African Republic,929.35,GDP per capita,0.5
+Chad,1454.88,GDP per capita,1.111
+Chile,24311.6,GDP per capita,1.409
+China,17531.14,GDP per capita,1.897
+Colombia,14931.36,GDP per capita,0.333
+Comoros,2878.32,GDP per capita,1.412
+Democratic Republic of the Congo,1097.8,GDP per capita,0.4
+Republic of Congo,3909.88,GDP per capita,1.631
+Costa Rica,20536.95,GDP per capita,1.743
+CÙte d'Ivoire,5286.96,GDP per capita,1.917
+Croatia,29928.05,GDP per capita,2.069
+Cyprus,41020.43,GDP per capita,0.508
+Czech Republic,40917.25,GDP per capita,1.823
+Denmark,58298.05,GDP per capita,1.75
+Djibouti,5419.97,GDP per capita,0.381
+Dominica,10497.05,GDP per capita,0.708
+Dominican Republic,19645.65,GDP per capita,1.273
+Ecuador,10693.41,GDP per capita,1.242
+Egypt,12976.29,GDP per capita,1.901
+El Salvador,8800.42,GDP per capita,1.519
+England,45839.15,GDP per capita,2.287
+Equatorial Guinea,16099.64,GDP per capita,1.036
+Eritrea,1750.43,GDP per capita,0.3
+Estonia,38810.65,GDP per capita,0.75
+Eswatini,9271.23,GDP per capita,0.81
+Ethiopia,2855.35,GDP per capita,0.959
+Fiji,10587.4,GDP per capita,1.304
+Finland,48838.56,GDP per capita,0.949
+France,46716.37,GDP per capita,1.983
+Gabon,15149.41,GDP per capita,1.286
+The Gambia,2199.8,GDP per capita,0.923
+Georgia,15388.76,GDP per capita,0.781
+Germany,53484.02,GDP per capita,2.567
+Ghana,5684.34,GDP per capita,1.725
+Greece,29337.36,GDP per capita,1.478
+Grenada,15205.62,GDP per capita,0.931
+Guatemala,8327.88,GDP per capita,1.492
+Guinea,2492.05,GDP per capita,1.469
+Guinea-Bissau,2386.97,GDP per capita,0.95
+Guyana,23041.05,GDP per capita,0.789
+Haiti,2759.66,GDP per capita,1.505
+Honduras,5661.24,GDP per capita,1.53
+Hong Kong SAR,60059.17,GDP per capita,1.086
+Hungary,33862.59,GDP per capita,1.644
+Iceland,54583.86,GDP per capita,0.966
+India,6659.01,GDP per capita,0.941
+Indonesia,11923.69,GDP per capita,0.937
+Islamic Republic of Iran,15549.76,GDP per capita,2.13
+Ireland,103102.56,GDP per capita,1.477
+Iraq,9901.6,GDP per capita,1.63
+Israel,42471.84,GDP per capita,1.288
+Italy,42044.62,GDP per capita,2.237
+Jamaica,9899.3,GDP per capita,1.263
+Japan,40662.24,GDP per capita,2
+Jordan,9968.81,GDP per capita,1.436
+Kazakhstan,25864.09,GDP per capita,0.735
+Kenya,5049.85,GDP per capita,1.23
+Korea,44286.73,GDP per capita,2.126
+Kosovo,11864.06,GDP per capita,0.333
+Kuwait,40969.13,GDP per capita,1.703
+Kyrgyz Republic,4822.65,GDP per capita,1.282
+Lao P.D.R.,7726.94,GDP per capita,0.464
+Latvia,31535.13,GDP per capita,0.953
+Lesotho,2549.88,GDP per capita,0.615
+Liberia,1398.51,GDP per capita,1
+Libya,19960.96,GDP per capita,1.339
+Lithuania,38927.3,GDP per capita,0.864
+Macao SAR,64739.16,GDP per capita,0.378
+Madagascar,1500.42,GDP per capita,1.143
+Malawi,1375.23,GDP per capita,0.985
+Malaysia,27036.72,GDP per capita,1.188
+Maldives,24546.3,GDP per capita,0.75
+Mali,2227.08,GDP per capita,1.458
+Malta,45517.64,GDP per capita,0.188
+Mauritania,5784.13,GDP per capita,0.5
+Mauritius,20278.93,GDP per capita,0.3
+Mexico,18837.56,GDP per capita,2.138
+Moldova,13758.02,GDP per capita,0.412
+Mongolia,11455.74,GDP per capita,0.792
+Montenegro,20650.59,GDP per capita,1.3
+Morocco,8353.36,GDP per capita,1.79
+Mozambique,1226.77,GDP per capita,1
+Myanmar,4050.7,GDP per capita,0.773
+Namibia,9065.87,GDP per capita,0.94
+Nepal,3880.9,GDP per capita,0.579
+Netherlands,57059.34,GDP per capita,2.17
+New Zealand,42409.43,GDP per capita,1.882
+Nicaragua,5907.13,GDP per capita,1.12
+Niger,1192.69,GDP per capita,1.083
+Nigeria,4969.21,GDP per capita,1.946
+North Macedonia,16371.85,GDP per capita,1.042
+Norway,64442.53,GDP per capita,1.324
+Oman,34258.48,GDP per capita,1.568
+Pakistan,5449.35,GDP per capita,0.125
+Panama,29130.71,GDP per capita,1.228
+Papua New Guinea,3569.29,GDP per capita,1.269
+Paraguay,12490.78,GDP per capita,1.419
+Peru,12764.3,GDP per capita,1.137
+Philippines,8365.03,GDP per capita,0.897
+Poland,34586.93,GDP per capita,1.75
+Portugal,33581.28,GDP per capita,1.906
+Puerto Rico,35143.31,GDP per capita,0.966
+Qatar,95340.3,GDP per capita,1.617
+Romania,30890.7,GDP per capita,1.775
+Russia,28104.88,GDP per capita,2.112
+Rwanda,2326,GDP per capita,0.773
+Samoa,5296.74,GDP per capita,1.077
+San Marino,59559.7,GDP per capita,0.026
+Saudi Arabia,44954.01,GDP per capita,2.022
+Senegal,3429.06,GDP per capita,1.676
+Serbia,19695.03,GDP per capita,2.029
+Seychelles,29116.81,GDP per capita,0.125
+St. Kitts and Nevis,21715.7,GDP per capita,1.389
+St. Lucia,12870.91,GDP per capita,0.917
+Sierra Leone,1670.09,GDP per capita,0.957
+St. Vincent and the Grenadines,12790.36,GDP per capita,0.855
+Singapore,106032.23,GDP per capita,0.974
+Slovak Republic,32280.15,GDP per capita,1.676
+Slovenia,40199.05,GDP per capita,1.444
+Solomon Islands,2123.89,GDP per capita,1.368
+Somalia,1132.93,GDP per capita,0.462
+South Africa,13145.76,GDP per capita,1.875
+South Sudan,766.99,GDP per capita,0.5
+Spain,38083.48,GDP per capita,2.296
+Sri Lanka,13386.68,GDP per capita,0.462
+Sudan,3891.41,GDP per capita,0.958
+Suriname,14726.31,GDP per capita,1.159
+Sweden,54239.69,GDP per capita,1.979
+Switzerland,70764.02,GDP per capita,1.721
+Syria,,GDP per capita,1.52
+Taiwan Province of China,57069.49,GDP per capita,1.311
+Tajikistan,3940.68,GDP per capita,1.341
+Tanzania,2826.38,GDP per capita,1
+Thailand,17479.92,GDP per capita,1.021
+Timor-Leste,3880.41,GDP per capita,0
+Togo,2163.58,GDP per capita,1.254
+Tonga,5768.54,GDP per capita,1
+Trinidad and Tobago,24465.91,GDP per capita,1.418
+Tunisia,10481.46,GDP per capita,1.929
+T¸rkiye,31752.91,GDP per capita,1.338
+Turkmenistan,16082.94,GDP per capita,1.413
+Tuvalu,4840.27,GDP per capita,0.25
+Uganda,2530.62,GDP per capita,1.312
+Ukraine,13039.97,GDP per capita,1.775
+United Arab Emirates,64697.99,GDP per capita,1.517
+United States,63014.33,GDP per capita,1.738
+Uruguay,22058.27,GDP per capita,1.61
+Uzbekistan,7814.55,GDP per capita,1.775
+Vanuatu,2469.95,GDP per capita,1.054
+Venezuela,5558.47,GDP per capita,0.696
+Vietnam,10479.7,GDP per capita,0.966
+Yemen,1818.16,GDP per capita,0.897
+Zambia,3239.65,GDP per capita,1.588
+Zimbabwe,2151.97,GDP per capita,1.217
+Albania,2.873,Population (millions),0.754
+Algeria,44.462,Population (millions),1.649
+Andorra,0.08,Population (millions),0.242
+Angola,31.962,Population (millions),1.522
+Antigua and Barbuda,0.099,Population (millions),1.109
+Argentina,45.842,Population (millions),1.961
+Armenia,2.962,Population (millions),0.778
+Aruba,0.109,Population (millions),0.8
+Australia,25.767,Population (millions),2.019
+Austria,8.946,Population (millions),1.649
+Azerbaijan,10.119,Population (millions),0.545
+The Bahamas,0.389,Population (millions),0.889
+Bahrain,1.487,Population (millions),1.385
+Bangladesh,166.657,Population (millions),0.655
+Barbados,0.289,Population (millions),0.951
+Belarus,9.35,Population (millions),0.818
+Belgium,11.555,Population (millions),1.957
+Belize,0.43,Population (millions),1.034
+Benin,12.487,Population (millions),1.12
+Bhutan,0.753,Population (millions),0.75
+Bolivia,11.8,Population (millions),0.958
+Bosnia and Herzegovina,3.481,Population (millions),1.53
+Botswana,2.401,Population (millions),1
+Brazil,212.609,Population (millions),2.197
+Brunei Darussalam,0.43,Population (millions),0.375
+Bulgaria,6.839,Population (millions),1.569
+Burkina Faso,21.521,Population (millions),1.515
+Burundi,12.231,Population (millions),1.182
+Cabo Verde,0.563,Population (millions),1.325
+Cambodia,15.835,Population (millions),0.444
+Cameroon,27.224,Population (millions),2.032
+Canada,38.226,Population (millions),1.635
+Central African Republic,4.92,Population (millions),0.5
+Chad,16.915,Population (millions),1.111
+Chile,19.718,Population (millions),1.409
+China,1412.60,Population (millions),1.897
+Colombia,51.049,Population (millions),0.333
+Comoros,0.921,Population (millions),1.412
+Democratic Republic of the Congo,93.751,Population (millions),0.4
+Republic of Congo,4.799,Population (millions),1.631
+Costa Rica,5.18,Population (millions),1.743
+CÙte d'Ivoire,27.659,Population (millions),1.917
+Croatia,4.034,Population (millions),2.069
+Cyprus,0.896,Population (millions),0.508
+Czech Republic,10.495,Population (millions),1.823
+Denmark,5.84,Population (millions),1.75
+Djibouti,1.002,Population (millions),0.381
+Dominica,0.074,Population (millions),0.708
+Dominican Republic,10.54,Population (millions),1.273
+Ecuador,17.757,Population (millions),1.242
+Egypt,102.1,Population (millions),1.901
+El Salvador,6.519,Population (millions),1.519
+England,55.98,Population (millions),2.287
+Equatorial Guinea,1.452,Population (millions),1.036
+Eritrea,3.601,Population (millions),0.3
+Estonia,1.331,Population (millions),0.75
+Eswatini,1.139,Population (millions),0.81
+Ethiopia,99.701,Population (millions),0.959
+Fiji,0.905,Population (millions),1.304
+Finland,5.534,Population (millions),0.949
+France,65.447,Population (millions),1.983
+Gabon,2.135,Population (millions),1.286
+The Gambia,2.492,Population (millions),0.923
+Georgia,3.729,Population (millions),0.781
+Germany,83.196,Population (millions),2.567
+Ghana,31.394,Population (millions),1.725
+Greece,10.679,Population (millions),1.478
+Grenada,0.113,Population (millions),0.931
+Guatemala,18.34,Population (millions),1.492
+Guinea,14.317,Population (millions),1.469
+Guinea-Bissau,1.855,Population (millions),0.95
+Guyana,0.789,Population (millions),0.789
+Haiti,11.906,Population (millions),1.505
+Honduras,10.117,Population (millions),1.53
+Hong Kong SAR,7.403,Population (millions),1.086
+Hungary,9.731,Population (millions),1.644
+Iceland,0.369,Population (millions),0.966
+India,1393.41,Population (millions),0.941
+Indonesia,272.249,Population (millions),0.937
+Islamic Republic of Iran,84.841,Population (millions),2.13
+Ireland,41.176,Population (millions),1.477
+Iraq,5.039,Population (millions),1.63
+Israel,9.367,Population (millions),1.288
+Italy,59.236,Population (millions),2.237
+Jamaica,2.74,Population (millions),1.263
+Japan,125.507,Population (millions),2
+Jordan,10.269,Population (millions),1.436
+Kazakhstan,19.126,Population (millions),0.735
+Kenya,49.801,Population (millions),1.23
+Korea,51.736,Population (millions),2.126
+Kosovo,1.769,Population (millions),0.333
+Kuwait,4.736,Population (millions),1.703
+Kyrgyz Republic,6.654,Population (millions),1.282
+Lao P.D.R.,7.379,Population (millions),0.464
+Latvia,1.893,Population (millions),0.953
+Lesotho,2.087,Population (millions),0.615
+Liberia,5.18,Population (millions),1
+Libya,6.71,Population (millions),1.339
+Lithuania,2.803,Population (millions),0.864
+,0.635,Population (millions),
+Macao SAR,0.683,Population (millions),0.378
+Madagascar,28.178,Population (millions),1.143
+Malawi,21.474,Population (millions),0.985
+Malaysia,32.7,Population (millions),1.188
+Maldives,0.384,Population (millions),0.75
+Mali,20.858,Population (millions),1.458
+Malta,0.516,Population (millions),0.188
+Mauritania,4.24,Population (millions),0.5
+Mauritius,1.264,Population (millions),0.3
+Mexico,128.972,Population (millions),2.138
+Moldova,2.587,Population (millions),0.412
+Mongolia,3.41,Population (millions),0.792
+Montenegro,0.622,Population (millions),1.3
+Morocco,36.313,Population (millions),1.79
+Mozambique,32.077,Population (millions),1
+Myanmar,53.55,Population (millions),0.773
+Namibia,2.55,Population (millions),0.94
+Nepal,29.656,Population (millions),0.579
+Netherlands,17.475,Population (millions),2.17
+New Zealand,5.112,Population (millions),1.882
+Nicaragua,6.539,Population (millions),1.12
+Niger,25.131,Population (millions),1.083
+Nigeria,211.401,Population (millions),1.946
+North Macedonia,2.069,Population (millions),1.042
+Norway,5.415,Population (millions),1.324
+Oman,4.527,Population (millions),1.568
+Pakistan,222.59,Population (millions),0.125
+Panama,4.337,Population (millions),1.228
+Papua New Guinea,8.964,Population (millions),1.269
+Paraguay,7.353,Population (millions),1.419
+Peru,33.829,Population (millions),1.137
+Philippines,110.2,Population (millions),0.897
+Poland,37.84,Population (millions),1.75
+Portugal,10.292,Population (millions),1.906
+Puerto Rico,3.121,Population (millions),0.966
+Qatar,2.618,Population (millions),1.617
+Romania,19.202,Population (millions),1.775
+Russia,145.558,Population (millions),2.112
+Rwanda,12.957,Population (millions),0.773
+Samoa,0.2,Population (millions),1.077
+San Marino,0.034,Population (millions),0.026
+Saudi Arabia,35.459,Population (millions),2.022
+Senegal,17.204,Population (millions),1.676
+Serbia,6.872,Population (millions),2.029
+Seychelles,0.098,Population (millions),0.125
+St. Kitts and Nevis,8.141,Population (millions),1.389
+St. Lucia,5.454,Population (millions),0.917
+Sierra Leone,5.46,Population (millions),0.957
+St. Vincent and the Grenadines,2.109,Population (millions),0.855
+Singapore,0.7,Population (millions),0.974
+Slovak Republic,15.189,Population (millions),1.676
+Slovenia,60.143,Population (millions),1.444
+Solomon Islands,14.179,Population (millions),1.368
+Somalia,47.399,Population (millions),0.462
+South Africa,22.156,Population (millions),1.875
+South Sudan,0.058,Population (millions),0.5
+Spain,0.182,Population (millions),2.296
+Sri Lanka,0.111,Population (millions),0.462
+Sudan,45.498,Population (millions),0.958
+Suriname,0.61,Population (millions),1.159
+Sweden,10.452,Population (millions),1.979
+Switzerland,8.67,Population (millions),1.721
+Syria,n/a,Population (millions),1.52
+Taiwan Province of China,23.375,Population (millions),1.311
+Tajikistan,9.657,Population (millions),1.341
+Tanzania,59.73,Population (millions),1
+Thailand,69.951,Population (millions),1.021
+Timor-Leste,1.344,Population (millions),0
+Togo,8.49,Population (millions),1.254
+Tonga,0.1,Population (millions),1
+Trinidad and Tobago,1.407,Population (millions),1.418
+Tunisia,12.019,Population (millions),1.929
+T¸rkiye,84.68,Population (millions),1.338
+Turkmenistan,6.152,Population (millions),1.413
+Tuvalu,0.011,Population (millions),0.25
+Uganda,42.46,Population (millions),1.312
+Ukraine,41.077,Population (millions),1.775
+United Arab Emirates,10.187,Population (millions),1.517
+United States,332.183,Population (millions),1.738
+Uruguay,3.543,Population (millions),1.61
+Uzbekistan,34.559,Population (millions),1.775
+Vanuatu,0.312,Population (millions),1.054
+Venezuela,27.586,Population (millions),0.696
+Vietnam,98.499,Population (millions),0.966
+Yemen,30.911,Population (millions),0.897
+Zambia,19.456,Population (millions),1.588
+Zimbabwe,15.492,Population (millions),1.217
+Albania,31.552,Expenditure/GDP,0.754
+Algeria,37.128,Expenditure/GDP,1.649
+Andorra,39.15,Expenditure/GDP,0.242
+Angola,19.394,Expenditure/GDP,1.522
+Antigua and Barbuda,25.32,Expenditure/GDP,1.109
+Argentina,37.832,Expenditure/GDP,1.961
+Armenia,28.703,Expenditure/GDP,0.778
+Aruba,29.369,Expenditure/GDP,0.8
+Australia,42.318,Expenditure/GDP,2.019
+Austria,55.979,Expenditure/GDP,1.649
+Azerbaijan,32.418,Expenditure/GDP,0.545
+The Bahamas,32.958,Expenditure/GDP,0.889
+Bahrain,32.18,Expenditure/GDP,1.385
+Bangladesh,12.967,Expenditure/GDP,0.655
+Barbados,33.745,Expenditure/GDP,0.951
+Belarus,37.063,Expenditure/GDP,0.818
+Belgium,54.912,Expenditure/GDP,1.957
+Belize,24.991,Expenditure/GDP,1.034
+Benin,19.855,Expenditure/GDP,1.12
+Bhutan,33.03,Expenditure/GDP,0.75
+Bolivia,34.398,Expenditure/GDP,0.958
+Bosnia and Herzegovina,40.169,Expenditure/GDP,1.53
+Botswana,34.004,Expenditure/GDP,1
+Brazil,35.942,Expenditure/GDP,2.197
+Brunei Darussalam,29.136,Expenditure/GDP,0.375
+Bulgaria,40.42,Expenditure/GDP,1.569
+Burkina Faso,27.373,Expenditure/GDP,1.515
+Burundi,27.865,Expenditure/GDP,1.182
+Cabo Verde,29.928,Expenditure/GDP,1.325
+Cambodia,28.078,Expenditure/GDP,0.444
+Cameroon,16.523,Expenditure/GDP,2.032
+Canada,46.001,Expenditure/GDP,1.635
+Central African Republic,19.686,Expenditure/GDP,0.5
+Chad,18.427,Expenditure/GDP,1.111
+Chile,33.466,Expenditure/GDP,1.409
+China,32.713,Expenditure/GDP,1.897
+Colombia,34.513,Expenditure/GDP,0.333
+Comoros,19.768,Expenditure/GDP,1.412
+Democratic Republic of the Congo,14.8,Expenditure/GDP,0.4
+Republic of Congo,22.171,Expenditure/GDP,1.631
+Costa Rica,20.95,Expenditure/GDP,1.743
+CÙte d'Ivoire,20.859,Expenditure/GDP,1.917
+Croatia,49.248,Expenditure/GDP,2.069
+Cyprus,44.096,Expenditure/GDP,0.508
+Czech Republic,46.482,Expenditure/GDP,1.823
+Denmark,50.81,Expenditure/GDP,1.75
+Djibouti,23.471,Expenditure/GDP,0.381
+Dominica,54.289,Expenditure/GDP,0.708
+Dominican Republic,18.479,Expenditure/GDP,1.273
+Ecuador,35.51,Expenditure/GDP,1.242
+Egypt,25.965,Expenditure/GDP,1.901
+El Salvador,32.016,Expenditure/GDP,1.519
+England,,Expenditure/GDP,2.287
+Equatorial Guinea,12.659,Expenditure/GDP,1.036
+Eritrea,37.573,Expenditure/GDP,0.3
+Estonia,41.28,Expenditure/GDP,0.75
+Eswatini,29.809,Expenditure/GDP,0.81
+Ethiopia,13.798,Expenditure/GDP,0.959
+Fiji,34.236,Expenditure/GDP,1.304
+Finland,55.308,Expenditure/GDP,0.949
+France,59.052,Expenditure/GDP,1.983
+Gabon,16.583,Expenditure/GDP,1.286
+The Gambia,21.436,Expenditure/GDP,0.923
+Georgia,31.444,Expenditure/GDP,0.781
+Germany,51.253,Expenditure/GDP,2.567
+Ghana,25.681,Expenditure/GDP,1.725
+Greece,56.871,Expenditure/GDP,1.478
+Grenada,31.455,Expenditure/GDP,0.931
+Guatemala,13.543,Expenditure/GDP,1.492
+Guinea,15.385,Expenditure/GDP,1.469
+Guinea-Bissau,25.034,Expenditure/GDP,0.95
+Guyana,25.873,Expenditure/GDP,0.789
+Haiti,10.838,Expenditure/GDP,1.505
+Honduras,28.424,Expenditure/GDP,1.53
+Hong Kong SAR,23.702,Expenditure/GDP,1.086
+Hungary,47.919,Expenditure/GDP,1.644
+Iceland,49.234,Expenditure/GDP,0.966
+India,30.137,Expenditure/GDP,0.941
+Indonesia,18.212,Expenditure/GDP,0.937
+Islamic Republic of Iran,12.378,Expenditure/GDP,2.13
+Ireland,36.052,Expenditure/GDP,1.477
+Iraq,24.821,Expenditure/GDP,1.63
+Israel,40.388,Expenditure/GDP,1.288
+Italy,55.45,Expenditure/GDP,2.237
+Jamaica,29.503,Expenditure/GDP,1.263
+Japan,42.52,Expenditure/GDP,2
+Jordan,33.35,Expenditure/GDP,1.436
+Kazakhstan,22.07,Expenditure/GDP,0.735
+Kenya,24.835,Expenditure/GDP,1.23
+Korea,25.845,Expenditure/GDP,2.126
+Kosovo,30.19,Expenditure/GDP,0.333
+Kuwait,52.401,Expenditure/GDP,1.703
+Kyrgyz Republic,34.36,Expenditure/GDP,1.282
+Lao P.D.R.,17.309,Expenditure/GDP,0.464
+Latvia,43.815,Expenditure/GDP,0.953
+Lesotho,52.378,Expenditure/GDP,0.615
+Liberia,29.697,Expenditure/GDP,1
+Libya,48.712,Expenditure/GDP,1.339
+Lithuania,37.789,Expenditure/GDP,0.864
+,42.304,Expenditure/GDP,
+Macao SAR,46.266,Expenditure/GDP,0.378
+Madagascar,14.111,Expenditure/GDP,1.143
+Malawi,24.585,Expenditure/GDP,0.985
+Malaysia,23.76,Expenditure/GDP,1.188
+Maldives,40.909,Expenditure/GDP,0.75
+Mali,27.144,Expenditure/GDP,1.458
+Malta,45.057,Expenditure/GDP,0.188
+Mauritania,19.172,Expenditure/GDP,0.5
+Mauritius,29.837,Expenditure/GDP,0.3
+Mexico,27.073,Expenditure/GDP,2.138
+Moldova,34.611,Expenditure/GDP,0.412
+Mongolia,35.869,Expenditure/GDP,0.792
+Montenegro,44.829,Expenditure/GDP,1.3
+Morocco,30.123,Expenditure/GDP,1.79
+Mozambique,31.269,Expenditure/GDP,1
+Myanmar,21.941,Expenditure/GDP,0.773
+Namibia,39.8,Expenditure/GDP,0.94
+Nepal,27.728,Expenditure/GDP,0.579
+Netherlands,46.581,Expenditure/GDP,2.17
+New Zealand,42.409,Expenditure/GDP,1.882
+Nicaragua,30.635,Expenditure/GDP,1.12
+Niger,24.203,Expenditure/GDP,1.083
+Nigeria,13.297,Expenditure/GDP,1.946
+North Macedonia,35.574,Expenditure/GDP,1.042
+Norway,48.185,Expenditure/GDP,1.324
+Oman,37.134,Expenditure/GDP,1.568
+Pakistan,18.472,Expenditure/GDP,0.125
+Panama,24.829,Expenditure/GDP,1.228
+Papua New Guinea,21.281,Expenditure/GDP,1.269
+Paraguay,25.309,Expenditure/GDP,1.419
+Peru,23.551,Expenditure/GDP,1.137
+Philippines,26.817,Expenditure/GDP,0.897
+Poland,44.2,Expenditure/GDP,1.75
+Portugal,48.148,Expenditure/GDP,1.906
+Puerto Rico,20.825,Expenditure/GDP,0.966
+Qatar,29.377,Expenditure/GDP,1.617
+Romania,37.51,Expenditure/GDP,1.775
+Russia,35.929,Expenditure/GDP,2.112
+Rwanda,31.56,Expenditure/GDP,0.773
+Samoa,34.776,Expenditure/GDP,1.077
+San Marino,39.181,Expenditure/GDP,0.026
+Saudi Arabia,33.238,Expenditure/GDP,2.022
+Senegal,25.739,Expenditure/GDP,1.676
+Serbia,35.125,Expenditure/GDP,2.029
+Seychelles,30.204,Expenditure/GDP,0.125
+St. Kitts and Nevis,46.572,Expenditure/GDP,1.389
+St. Lucia,39.825,Expenditure/GDP,0.917
+Sierra Leone,37.494,Expenditure/GDP,0.957
+St. Vincent and the Grenadines,28.254,Expenditure/GDP,0.855
+Singapore,18.605,Expenditure/GDP,0.974
+Slovak Republic,46.833,Expenditure/GDP,1.676
+Slovenia,48.934,Expenditure/GDP,1.444
+Solomon Islands,36.92,Expenditure/GDP,1.368
+Somalia,6.033,Expenditure/GDP,0.462
+South Africa,32.976,Expenditure/GDP,1.875
+South Sudan,38.738,Expenditure/GDP,0.5
+Spain,50.601,Expenditure/GDP,2.296
+Sri Lanka,19.913,Expenditure/GDP,0.462
+Sudan,9.646,Expenditure/GDP,0.958
+Suriname,34.756,Expenditure/GDP,1.159
+Sweden,49.857,Expenditure/GDP,1.979
+Switzerland,35.038,Expenditure/GDP,1.721
+Syria,n/a,Expenditure/GDP,1.52
+Taiwan Province of China,16.15,Expenditure/GDP,1.311
+Tajikistan,28.236,Expenditure/GDP,1.341
+Tanzania,17.515,Expenditure/GDP,1
+Thailand,27.252,Expenditure/GDP,1.021
+Timor-Leste,69.335,Expenditure/GDP,0
+Togo,22.952,Expenditure/GDP,1.254
+Tonga,49.288,Expenditure/GDP,1
+Trinidad and Tobago,32.196,Expenditure/GDP,1.418
+Tunisia,33.184,Expenditure/GDP,1.929
+T¸rkiye,31.198,Expenditure/GDP,1.338
+Turkmenistan,10.748,Expenditure/GDP,1.413
+Tuvalu,94.723,Expenditure/GDP,0.25
+Uganda,21.806,Expenditure/GDP,1.312
+Ukraine,40.266,Expenditure/GDP,1.775
+United Arab Emirates,28.896,Expenditure/GDP,1.517
+United States,42.364,Expenditure/GDP,1.738
+Uruguay,30.918,Expenditure/GDP,1.61
+Uzbekistan,30.631,Expenditure/GDP,1.775
+Vanuatu,44.114,Expenditure/GDP,1.054
+Venezuela,10.547,Expenditure/GDP,0.696
+Vietnam,22.086,Expenditure/GDP,0.966
+Yemen,9.288,Expenditure/GDP,0.897
+Zambia,31.624,Expenditure/GDP,1.588
+Zimbabwe,19.147,Expenditure/GDP,1.217
+Albania,0.09,Voice and Accountability index,0.754
+Algeria,-1.01,Voice and Accountability index,1.649
+Andorra,1.04,Voice and Accountability index,0.242
+Angola,-0.84,Voice and Accountability index,1.522
+Antigua and Barbuda,0.74,Voice and Accountability index,1.109
+Argentina,0.62,Voice and Accountability index,1.961
+Armenia,0.06,Voice and Accountability index,0.778
+Aruba,1.03,Voice and Accountability index,0.8
+Australia,1.38,Voice and Accountability index,2.019
+Austria,1.4,Voice and Accountability index,1.649
+Azerbaijan,-1.53,Voice and Accountability index,0.545
+Bahamas,0.91,Voice and Accountability index,0.889
+Bahrain,-1.5,Voice and Accountability index,1.385
+Bangladesh,-0.77,Voice and Accountability index,0.655
+Barbados,1.13,Voice and Accountability index,0.951
+Belarus,-1.58,Voice and Accountability index,0.818
+Belgium,1.28,Voice and Accountability index,1.957
+Belize,0.55,Voice and Accountability index,1.034
+Benin¬†Dahomey,-0.24,Voice and Accountability index,1.12
+Bhutan,0.23,Voice and Accountability index,0.75
+Bolivia,-0.11,Voice and Accountability index,0.958
+Bosnia and Herzegovina,-0.31,Voice and Accountability index,1.53
+Botswana,0.46,Voice and Accountability index,1
+Brazil,0.28,Voice and Accountability index,2.197
+Brunei,-0.85,Voice and Accountability index,0.375
+Bulgaria,0.29,Voice and Accountability index,1.569
+Burkina Faso¬†Upper Volta,-0.11,Voice and Accountability index,1.515
+Burundi,-1.41,Voice and Accountability index,1.182
+Cape Verde,0.94,Voice and Accountability index,1.325
+Cambodia,-1.44,Voice and Accountability index,0.444
+Cameroon,-1.16,Voice and Accountability index,2.032
+Canada,1.46,Voice and Accountability index,1.635
+Central African Republic,-1.2,Voice and Accountability index,0.5
+Chad,-1.42,Voice and Accountability index,1.111
+Chile,0.97,Voice and Accountability index,1.409
+China,-1.64,Voice and Accountability index,1.897
+Chinese Taipei¬†Republic of China,1.1,Voice and Accountability index,0.333
+Colombia,0.1,Voice and Accountability index,1.412
+Comoros,-0.74,Voice and Accountability index,0.4
+Congo,-1.24,Voice and Accountability index,1.162
+Costa Rica,1.09,Voice and Accountability index,1.743
+Ivory Coast,-0.47,Voice and Accountability index,1.917
+Croatia,0.61,Voice and Accountability index,2.069
+Cyprus,0.87,Voice and Accountability index,0.508
+Czech Republic¬†Representation of Czechs and Slovaks¬†Czechoslovakia,1.02,Voice and Accountability index,1.823
+Denmark,1.56,Voice and Accountability index,1.75
+Djibouti,-1.3,Voice and Accountability index,0.381
+Dominica,0.82,Voice and Accountability index,0.708
+DR Congo¬†Zaire,-1.2,Voice and Accountability index,1.631
+Ecuador,0.11,Voice and Accountability index,1.242
+Egypt,-1.51,Voice and Accountability index,1.901
+El Salvador,-0.06,Voice and Accountability index,1.519
+Equatorial Guinea,-1.72,Voice and Accountability index,1.036
+Eritrea,-1.93,Voice and Accountability index,0.3
+Estonia,1.19,Voice and Accountability index,0.75
+Ethiopia,-1.07,Voice and Accountability index,0.959
+Fiji,-0.15,Voice and Accountability index,1.304
+Finland,1.62,Voice and Accountability index,0.949
+France,1.12,Voice and Accountability index,1.983
+Gabon,-0.89,Voice and Accountability index,1.286
+Gambia,-0.1,Voice and Accountability index,0.923
+Georgia,0.02,Voice and Accountability index,0.781
+Germany¬†West Germany¬†Germany,1.43,Voice and Accountability index,2.567
+Ghana,0.47,Voice and Accountability index,1.725
+Greece,0.96,Voice and Accountability index,1.478
+Grenada,0.73,Voice and Accountability index,0.931
+Guatemala,-0.46,Voice and Accountability index,1.492
+Guinea,-0.99,Voice and Accountability index,1.469
+Guyana,0.25,Voice and Accountability index,0.789
+Haiti,-0.95,Voice and Accountability index,1.505
+Honduras,-0.59,Voice and Accountability index,1.53
+Hong Kong,-0.21,Voice and Accountability index,1.086
+Hungary,0.4,Voice and Accountability index,1.644
+Iceland,1.37,Voice and Accountability index,0.966
+India,0.11,Voice and Accountability index,0.941
+Indonesia¬†Dutch East Indies,0.16,Voice and Accountability index,0.937
+Iran,-1.47,Voice and Accountability index,2.13
+Iraq,-0.96,Voice and Accountability index,1.63
+Republic of Ireland¬†Ireland¬†Irish Free State,1.43,Voice and Accountability index,1.477
+"Israel¬†Palestine, British Mandate",0.68,Voice and Accountability index,1.288
+Italy,1.1,Voice and Accountability index,2.237
+Ivory Coast,-0.47,Voice and Accountability index,1.917
+Jamaica,0.63,Voice and Accountability index,1.263
+Japan,1.08,Voice and Accountability index,2
+Jordan,-0.8,Voice and Accountability index,1.436
+Kazakhstan,-1.14,Voice and Accountability index,0.735
+Kenya,-0.37,Voice and Accountability index,1.23
+Kuwait,-0.7,Voice and Accountability index,1.703
+Kyrgyzstan,-0.61,Voice and Accountability index,1.282
+Laos,-1.68,Voice and Accountability index,0.464
+Latvia,0.91,Voice and Accountability index,0.953
+Lebanon,-0.63,Voice and Accountability index,1.208
+Lesotho,-0.02,Voice and Accountability index,0.615
+Liberia,-0.02,Voice and Accountability index,1
+Libya,-1.46,Voice and Accountability index,1.339
+Lithuania,1.04,Voice and Accountability index,0.864
+Macau,-0.53,Voice and Accountability index,0.378
+Madagascar,-0.27,Voice and Accountability index,1.143
+Malawi,0.08,Voice and Accountability index,0.985
+Malaysia,-0.15,Voice and Accountability index,1.188
+Maldives,-0.24,Voice and Accountability index,0.75
+Mali,-0.78,Voice and Accountability index,1.458
+Malta,1.08,Voice and Accountability index,0.188
+Mauritania,-0.77,Voice and Accountability index,0.5
+Mauritius,0.66,Voice and Accountability index,0.3
+Mexico,-0.07,Voice and Accountability index,2.138
+Moldova,0.05,Voice and Accountability index,0.412
+Mongolia,0.32,Voice and Accountability index,0.792
+Montenegro,0.17,Voice and Accountability index,1.3
+Morocco,-0.61,Voice and Accountability index,1.79
+Mozambique,-0.61,Voice and Accountability index,1
+Namibia,0.57,Voice and Accountability index,0.94
+Nepal,-0.09,Voice and Accountability index,0.579
+Netherlands,1.5,Voice and Accountability index,2.17
+New Zealand,1.62,Voice and Accountability index,1.882
+Nicaragua,-1.29,Voice and Accountability index,1.12
+Niger,-0.39,Voice and Accountability index,1.083
+Nigeria,-0.64,Voice and Accountability index,1.946
+North Korea,-2.07,Voice and Accountability index,1.639
+North Macedonia¬†Macedonia,0.14,Voice and Accountability index,1.042
+Norway,1.75,Voice and Accountability index,1.324
+Oman,-1.19,Voice and Accountability index,1.568
+Pakistan,-0.84,Voice and Accountability index,0.125
+Palestine,-1.11,Voice and Accountability index,1.265
+Panama,0.55,Voice and Accountability index,1.228
+Papua New Guinea,0.02,Voice and Accountability index,1.269
+Paraguay,0.01,Voice and Accountability index,1.419
+Peru,0.18,Voice and Accountability index,1.137
+Philippines,-0.15,Voice and Accountability index,0.897
+Poland,0.59,Voice and Accountability index,1.75
+Portugal,1.26,Voice and Accountability index,1.906
+Puerto Rico,0.51,Voice and Accountability index,0.966
+Qatar,-1.17,Voice and Accountability index,1.617
+Republic of Ireland¬†Ireland¬†Irish Free State,-1.24,Voice and Accountability index,1.477
+Romania,0.6,Voice and Accountability index,1.775
+Russia¬†Soviet Union,-1.1,Voice and Accountability index,2.112
+Rwanda,-0.96,Voice and Accountability index,0.773
+S√£o Tom√© and Pr√≠ncipe,0.35,Voice and Accountability index,0.7
+Saint Lucia,0.86,Voice and Accountability index,0.917
+Saint Vincent and the Grenadines,0.88,Voice and Accountability index,0.855
+Saudi Arabia,-1.59,Voice and Accountability index,2.022
+Senegal,0.19,Voice and Accountability index,1.676
+Serbia¬†Serbia and Montenegro¬†FR Yugoslavia¬†SFR Yugoslavia¬†Kingdom of Yugoslavia,-0.12,Voice and Accountability index,2.029
+Seychelles,0.64,Voice and Accountability index,0.125
+Sierra Leone,-0.06,Voice and Accountability index,0.957
+Singapore,-0.14,Voice and Accountability index,0.974
+Slovakia,0.91,Voice and Accountability index,1.676
+Slovenia,0.91,Voice and Accountability index,1.444
+Solomon Islands,0.47,Voice and Accountability index,1.368
+Somalia,-1.75,Voice and Accountability index,0.462
+South Africa,0.79,Voice and Accountability index,1.875
+South Korea,0.93,Voice and Accountability index,2.126
+Spain,1.01,Voice and Accountability index,2.296
+Sri Lanka,-0.07,Voice and Accountability index,0.462
+Sudan,-1.47,Voice and Accountability index,0.958
+Suriname¬†Dutch Guiana,0.38,Voice and Accountability index,1.159
+Sweden,1.51,Voice and Accountability index,1.979
+Switzerland,1.55,Voice and Accountability index,1.721
+Syria,-1.92,Voice and Accountability index,1.52
+Tajikistan,-1.71,Voice and Accountability index,1.341
+Tanzania,-0.71,Voice and Accountability index,1
+Thailand,-0.79,Voice and Accountability index,1.021
+Togo,-0.79,Voice and Accountability index,1.254
+Tonga,0.73,Voice and Accountability index,1
+Trinidad and Tobago,0.67,Voice and Accountability index,1.418
+Tunisia,0.19,Voice and Accountability index,1.929
+Turkey,-0.86,Voice and Accountability index,1.338
+Turkmenistan,-1.91,Voice and Accountability index,1.413
+Tuvalu,1.16,Voice and Accountability index,0.25
+United Arab Emirates,-1.19,Voice and Accountability index,1.517
+Uganda,-0.82,Voice and Accountability index,1.312
+Ukraine,0.08,Voice and Accountability index,1.775
+United States,0.9,Voice and Accountability index,1.738
+Uruguay,1.3,Voice and Accountability index,1.61
+Uzbekistan,-1.4,Voice and Accountability index,1.775
+Vanuatu,0.69,Voice and Accountability index,1.054
+Venezuela,-1.63,Voice and Accountability index,0.696
+Vietnam¬†South Vietnam,-1.3,Voice and Accountability index,0.966
+Yemen¬†North Yemen,-1.68,Voice and Accountability index,0.897
+Zambia,-0.37,Voice and Accountability index,1.588
+Zimbabwe¬†Rhodesia,-1.14,Voice and Accountability index,1.217
+Albania,45.95,"GDP(PPP, thousand millions)",0.754
+Algeria,535.80,"GDP(PPP, thousand millions)",1.649
+Samoa,1.16,"GDP(PPP, thousand millions)",0.556
+Andorra,4.64,"GDP(PPP, thousand millions)",0.242
+Angola,222.77,"GDP(PPP, thousand millions)",1.522
+Antigua and Barbuda,1.96,"GDP(PPP, thousand millions)",1.109
+Argentina,1083.36,"GDP(PPP, thousand millions)",1.961
+Armenia,43.43,"GDP(PPP, thousand millions)",0.778
+Aruba,4.55,"GDP(PPP, thousand millions)",0.8
+Australia,1453.55,"GDP(PPP, thousand millions)",2.019
+Austria,534.57,"GDP(PPP, thousand millions)",1.649
+Azerbaijan,160.90,"GDP(PPP, thousand millions)",0.545
+The Bahamas,13.54,"GDP(PPP, thousand millions)",0.889
+Bahrain,79.39,"GDP(PPP, thousand millions)",1.385
+Bangladesh,1173.85,"GDP(PPP, thousand millions)",0.655
+Barbados,4.23,"GDP(PPP, thousand millions)",0.951
+Belarus,202.80,"GDP(PPP, thousand millions)",0.818
+Belgium,659.25,"GDP(PPP, thousand millions)",1.957
+Belize,3.81,"GDP(PPP, thousand millions)",1.034
+Benin,47.43,"GDP(PPP, thousand millions)",1.12
+Bhutan,8.92,"GDP(PPP, thousand millions)",0.75
+Bolivia,106.86,"GDP(PPP, thousand millions)",0.958
+Bosnia and Herzegovina,56.65,"GDP(PPP, thousand millions)",1.53
+Botswana,42.20,"GDP(PPP, thousand millions)",1
+Brazil,3435.87,"GDP(PPP, thousand millions)",2.197
+Brunei Darussalam,29.42,"GDP(PPP, thousand millions)",0.375
+Bulgaria,178.16,"GDP(PPP, thousand millions)",1.569
+Burkina Faso,53.00,"GDP(PPP, thousand millions)",1.515
+Burundi,9.85,"GDP(PPP, thousand millions)",1.182
+Cabo Verde,4.33,"GDP(PPP, thousand millions)",1.325
+Cambodia,79.32,"GDP(PPP, thousand millions)",0.444
+Cameroon,110.89,"GDP(PPP, thousand millions)",2.032
+Canada,2024.96,"GDP(PPP, thousand millions)",1.635
+Central African Republic,5.02,"GDP(PPP, thousand millions)",0.5
+Chad,27.04,"GDP(PPP, thousand millions)",1.111
+Chile,526.64,"GDP(PPP, thousand millions)",1.409
+China,27206.09,"GDP(PPP, thousand millions)",1.897
+Taiwan Province of China,1465.54,"GDP(PPP, thousand millions)",0.333
+Colombia,837.39,"GDP(PPP, thousand millions)",1.412
+Comoros,2.91,"GDP(PPP, thousand millions)",0.4
+Democratic Republic of the Congo,113.07,"GDP(PPP, thousand millions)",1.631
+Costa Rica,116.87,"GDP(PPP, thousand millions)",1.743
+CÙte d'Ivoire,160.65,"GDP(PPP, thousand millions)",1.917
+Croatia,132.62,"GDP(PPP, thousand millions)",2.069
+Cyprus,40.38,"GDP(PPP, thousand millions)",0.508
+Czech Republic,471.76,"GDP(PPP, thousand millions)",1.823
+Denmark,374.03,"GDP(PPP, thousand millions)",1.75
+Djibouti,5.97,"GDP(PPP, thousand millions)",0.381
+Dominica,0.85,"GDP(PPP, thousand millions)",0.708
+Dominican Republic,227.48,"GDP(PPP, thousand millions)",1.273
+Ecuador,208.60,"GDP(PPP, thousand millions)",1.242
+Egypt,1455.50,"GDP(PPP, thousand millions)",1.901
+El Salvador,63.02,"GDP(PPP, thousand millions)",1.519
+Equatorial Guinea,25.69,"GDP(PPP, thousand millions)",1.036
+Eritrea,6.93,"GDP(PPP, thousand millions)",0.3
+Estonia,56.75,"GDP(PPP, thousand millions)",0.75
+Eswatini,11.60,"GDP(PPP, thousand millions)",0.81
+Ethiopia,312.75,"GDP(PPP, thousand millions)",0.959
+Fiji,10.52,"GDP(PPP, thousand millions)",1.304
+Finland,296.91,"GDP(PPP, thousand millions)",0.949
+France,3358.91,"GDP(PPP, thousand millions)",1.983
+Gabon,35.53,"GDP(PPP, thousand millions)",1.286
+The Gambia,6.02,"GDP(PPP, thousand millions)",0.923
+Georgia,63.04,"GDP(PPP, thousand millions)",0.781
+Germany,4888.36,"GDP(PPP, thousand millions)",2.567
+Ghana,196.05,"GDP(PPP, thousand millions)",1.725
+Greece,344.17,"GDP(PPP, thousand millions)",1.478
+Grenada,1.89,"GDP(PPP, thousand millions)",0.931
+Guatemala,167.79,"GDP(PPP, thousand millions)",1.492
+Guinea,39.20,"GDP(PPP, thousand millions)",1.469
+Guinea-Bissau,4.87,"GDP(PPP, thousand millions)",0.95
+Guyana,19.98,"GDP(PPP, thousand millions)",0.789
+Haiti,36.10,"GDP(PPP, thousand millions)",1.505
+Honduras,62.92,"GDP(PPP, thousand millions)",1.53
+Hong Kong SAR,488.46,"GDP(PPP, thousand millions)",1.086
+Hungary,362.00,"GDP(PPP, thousand millions)",1.644
+Iceland,22.12,"GDP(PPP, thousand millions)",0.966
+India,10193.54,"GDP(PPP, thousand millions)",0.941
+Indonesia,3566.26,"GDP(PPP, thousand millions)",0.937
+Islamic Republic of Iran,1449.33,"GDP(PPP, thousand millions)",2.13
+Iraq,447.90,"GDP(PPP, thousand millions)",1.63
+Israel,437.08,"GDP(PPP, thousand millions)",1.288
+Italy,2734.61,"GDP(PPP, thousand millions)",2.237
+Jamaica,29.80,"GDP(PPP, thousand millions)",1.263
+Japan,5606.55,"GDP(PPP, thousand millions)",2
+Jordan,112.46,"GDP(PPP, thousand millions)",1.436
+Kazakhstan,543.44,"GDP(PPP, thousand millions)",0.735
+Kenya,276.28,"GDP(PPP, thousand millions)",1.23
+Korea,2517.13,"GDP(PPP, thousand millions)",2.126
+Kosovo,23.06,"GDP(PPP, thousand millions)",0.333
+Kuwait,213.16,"GDP(PPP, thousand millions)",1.703
+Kyrgyz Republic,35.26,"GDP(PPP, thousand millions)",1.282
+Lao P.D.R.,62.64,"GDP(PPP, thousand millions)",0.464
+Latvia,65.59,"GDP(PPP, thousand millions)",0.953
+Lesotho,5.85,"GDP(PPP, thousand millions)",0.615
+Liberia,7.96,"GDP(PPP, thousand millions)",1
+Libya,147.14,"GDP(PPP, thousand millions)",1.339
+Lithuania,119.87,"GDP(PPP, thousand millions)",0.864
+Luxembourg,83.70,"GDP(PPP, thousand millions)",0.239
+Macao SAR,48.59,"GDP(PPP, thousand millions)",0.378
+Madagascar,46.45,"GDP(PPP, thousand millions)",1.143
+Malawi,32.44,"GDP(PPP, thousand millions)",0.985
+Malaysia,971.27,"GDP(PPP, thousand millions)",1.188
+Maldives,10.37,"GDP(PPP, thousand millions)",0.75
+Mali,51.03,"GDP(PPP, thousand millions)",1.458
+Malta,25.81,"GDP(PPP, thousand millions)",0.188
+Mauritania,26.94,"GDP(PPP, thousand millions)",0.5
+Mauritius,28.16,"GDP(PPP, thousand millions)",0.3
+Mexico,2669.06,"GDP(PPP, thousand millions)",2.138
+Moldova,39.10,"GDP(PPP, thousand millions)",0.412
+Mongolia,42.92,"GDP(PPP, thousand millions)",0.792
+Montenegro,14.10,"GDP(PPP, thousand millions)",1.3
+Morocco,333.24,"GDP(PPP, thousand millions)",1.79
+Mozambique,43.23,"GDP(PPP, thousand millions)",1
+Myanmar,238.30,"GDP(PPP, thousand millions)",0.773
+Namibia,25.40,"GDP(PPP, thousand millions)",0.94
+Nepal,126.44,"GDP(PPP, thousand millions)",0.579
+Netherlands,1095.45,"GDP(PPP, thousand millions)",2.17
+New Zealand,238.15,"GDP(PPP, thousand millions)",1.882
+Nicaragua,42.44,"GDP(PPP, thousand millions)",1.12
+Niger,32.93,"GDP(PPP, thousand millions)",1.083
+Nigeria,1154.07,"GDP(PPP, thousand millions)",1.946
+North Macedonia,37.21,"GDP(PPP, thousand millions)",1.042
+Norway,383.37,"GDP(PPP, thousand millions)",1.324
+Oman,170.40,"GDP(PPP, thousand millions)",1.568
+Pakistan,1332.56,"GDP(PPP, thousand millions)",0.125
+Panama,138.81,"GDP(PPP, thousand millions)",1.228
+Papua New Guinea,35.15,"GDP(PPP, thousand millions)",1.269
+Paraguay,100.90,"GDP(PPP, thousand millions)",1.419
+Peru,474.37,"GDP(PPP, thousand millions)",1.137
+Philippines,1012.71,"GDP(PPP, thousand millions)",0.897
+Poland,1437.81,"GDP(PPP, thousand millions)",1.75
+Portugal,379.69,"GDP(PPP, thousand millions)",1.906
+Puerto Rico,120.51,"GDP(PPP, thousand millions)",0.966
+Qatar,274.25,"GDP(PPP, thousand millions)",1.617
+Ireland,570.72,"GDP(PPP, thousand millions)",1.477
+Romania,651.64,"GDP(PPP, thousand millions)",1.775
+Russia,4494.22,"GDP(PPP, thousand millions)",2.112
+Rwanda,33.11,"GDP(PPP, thousand millions)",0.773
+Samoa,1.16,"GDP(PPP, thousand millions)",1.077
+San Marino,2.22,"GDP(PPP, thousand millions)",0.026
+Saudi Arabia,1751.18,"GDP(PPP, thousand millions)",2.022
+Senegal,64.81,"GDP(PPP, thousand millions)",1.676
+St. Kitts and Nevis,1.38,"GDP(PPP, thousand millions)",1.389
+St. Lucia,2.58,"GDP(PPP, thousand millions)",0.917
+Serbia,148.68,"GDP(PPP, thousand millions)",2.029
+Seychelles,3.14,"GDP(PPP, thousand millions)",0.125
+St. Vincent and the Grenadines,1.56,"GDP(PPP, thousand millions)",0.855
+Sierra Leone,14.94,"GDP(PPP, thousand millions)",0.957
+Singapore,635.27,"GDP(PPP, thousand millions)",0.974
+Slovak Republic,193.62,"GDP(PPP, thousand millions)",1.676
+Slovenia,93.14,"GDP(PPP, thousand millions)",1.444
+Solomon Islands,1.63,"GDP(PPP, thousand millions)",1.368
+Somalia,18.90,"GDP(PPP, thousand millions)",0.462
+South Africa,868.58,"GDP(PPP, thousand millions)",1.875
+South Sudan,11.95,"GDP(PPP, thousand millions)",0.5
+Spain,1983.11,"GDP(PPP, thousand millions)",2.296
+Sri Lanka,325.84,"GDP(PPP, thousand millions)",0.462
+Sudan,194.51,"GDP(PPP, thousand millions)",0.958
+Suriname,9.87,"GDP(PPP, thousand millions)",1.159
+Sweden,622.83,"GDP(PPP, thousand millions)",1.979
+Switzerland,674.01,"GDP(PPP, thousand millions)",1.721
+Syria,n/a,"GDP(PPP, thousand millions)",1.52
+Taiwan Province of China,1465.54,"GDP(PPP, thousand millions)",1.311
+Tajikistan,41.81,"GDP(PPP, thousand millions)",1.341
+Tanzania,185.46,"GDP(PPP, thousand millions)",1
+Thailand,1343.29,"GDP(PPP, thousand millions)",1.021
+Timor-Leste,5.73,"GDP(PPP, thousand millions)",0
+Togo,20.18,"GDP(PPP, thousand millions)",1.254
+Tonga,0.63,"GDP(PPP, thousand millions)",1
+Trinidad and Tobago,37.81,"GDP(PPP, thousand millions)",1.418
+Tunisia,138.39,"GDP(PPP, thousand millions)",1.929
+T¸rkiye,2953.94,"GDP(PPP, thousand millions)",1.338
+Turkmenistan,108.69,"GDP(PPP, thousand millions)",1.413
+Tuvalu,0.06,"GDP(PPP, thousand millions)",0.25
+Uganda,118.05,"GDP(PPP, thousand millions)",1.312
+Ukraine,588.45,"GDP(PPP, thousand millions)",1.775
+United Arab Emirates,724.07,"GDP(PPP, thousand millions)",1.517
+United States,22996.08,"GDP(PPP, thousand millions)",1.738
+Uruguay,85.86,"GDP(PPP, thousand millions)",1.61
+Uzbekistan,296.69,"GDP(PPP, thousand millions)",1.775
+Vanuatu,0.85,"GDP(PPP, thousand millions)",1.054
+Venezuela,168.46,"GDP(PPP, thousand millions)",0.696
+Vietnam,1134.02,"GDP(PPP, thousand millions)",0.966
+Yemen,61.74,"GDP(PPP, thousand millions)",0.897
+Zambia,69.25,"GDP(PPP, thousand millions)",1.588
+Zimbabwe,36.63,"GDP(PPP, thousand millions)",1.217
