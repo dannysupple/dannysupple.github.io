@@ -1,0 +1,60 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "World Cup statistics for outlying countries",
+    "anchor": "start",
+    "color": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/dannysupple/dannysupple.github.io/main/outliers_selector(2).csv"
+  },
+  "height": 540,
+  "width": 540,
+  "background": null,
+  "mark": "bar",
+  "selection": {
+    "Type": {
+      "type": "single",
+      "fields": ["Category"],
+      "bind": {
+        "input": "select",
+        "options": ["WC apps", "Wins", "KO matches", "KO wins"],
+        "name": "Pick World Cup statistic"
+      }
+    }
+  },
+  "transform": [{"filter": {"selection": "Type"}}],
+  "encoding": {
+    "color": {
+      "field": "Country",
+      "type": "nominal",
+      "scale": {
+        "domain": ["USA", "China", "India", "Uruguay ", "Argentina", "Italy"],
+        "range": [
+          "#0A3161",
+          "#cd071e",
+          "#FF9933",
+          "#001489",
+          "#6CACE4",
+          "#008C45"
+        ]
+      }
+    },
+    "tooltip": {"field": "Value"},
+    "x": {
+      "field": "Country",
+      "type": "nominal",
+      "title": "",
+      "axis": {"grid": false},
+      "sort": null
+    },
+    "y": {
+      "field": "Value",
+      "type": "quantitative",
+      "title": "",
+      "axis": {"grid": false},
+      "sort": []
+    }
+  },
+  "config": {}
+}

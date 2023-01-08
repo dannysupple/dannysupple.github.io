@@ -1,0 +1,56 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Total number of points in World Cup history",
+    "subtitle": "GDP (PPP), GDP per capita, Government spending as a percentage of GDP, Population and Voice and Accountabilty index",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/dannysupple/dannysupple.github.io/main/wc_finals_masters(5).csv"
+  },
+  "height": 500,
+  "width": 500,
+  "background": null,
+  "config": {"style": {"cell": {"stroke": "transparent"}}},
+  "mark": {"type": "point", "filled": true, "color": "darkblue", "size": 50},
+  "selection": {
+    "Type": {
+      "type": "single",
+      "fields": ["type"],
+      "bind": {
+        "input": "select",
+        "options": [
+          "GDP (PPP, US$ billion)",
+          "GDP per capita",
+          "Population (millions)",
+          "Expenditure/GDP",
+          "Voice and Accountability index"
+        ],
+        "name": "Pick variable"
+      }
+    }
+  },
+  "transform": [{"filter": {"selection": "Type"}}],
+  "encoding": {
+    "y": {
+      "field": "pts",
+      "type": "quantitative",
+      "title": "Points",
+      "axis": {"grid": false}
+    },
+    "x": {
+      "field": "value",
+      "type": "quantitative",
+      "title": "",
+      "axis": {"grid": false},
+      "sort": []
+    },
+    "tooltip": [
+      {"field": "Country", "type": "nominal"},
+      {"field": "value", "type": "quantitative"}
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Average World Cup qualifying points per game",
+    "subtitle": "GDP (PPP), GDP per capita, Government spending as a percentage of GDP and Population",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "start",
+    "color": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/dannysupple/dannysupple.github.io/main/wcmasters(9).csv"
+  },
+  "height": 600,
+  "width": 600,
+  "background": null,
+  "config": {"style": {"cell": {"stroke": "transparent"}}},
+  "mark": {"type": "point", "filled": true, "color": "darkblue"},
+  "selection": {
+    "Type": {
+      "type": "single",
+      "fields": ["type"],
+      "bind": {
+        "input": "select",
+        "options": [
+          "GDP (PPP, US$ billion)",
+          "GDP per capita",
+          "Population (millions)",
+          "Expenditure/GDP",
+          "Voice and Accountability index"
+        ],
+        "name": "Pick variable"
+      }
+    }
+  },
+  "transform": [{"filter": {"selection": "Type"}}],
+  "encoding": {
+    "x": {
+      "field": "q pts",
+      "type": "quantitative",
+      "title": "",
+      "axis": {"grid": false}
+    },
+    "y": {
+      "field": "value",
+      "type": "quantitative",
+      "title": "",
+      "axis": {"grid": false},
+      "sort": []
+    },
+    "tooltip": [
+      {"field": "Country", "type": "nominal"},
+      {"field": "value", "type": "quantitative"}]
+  }
+}
