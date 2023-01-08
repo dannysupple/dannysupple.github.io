@@ -85,6 +85,8 @@
       {"Year": 2019, "Party": "Liberal Democrats", "seats": 11}
     ]
   },
+  "height": 340,
+  "width": 340,
   "mark": "bar",
   "encoding": {
     "x": {"field": "Year", "type": "ordinal", "title": "Year"},

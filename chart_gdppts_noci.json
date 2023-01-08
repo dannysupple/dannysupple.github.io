@@ -4,6 +4,8 @@
   "data": {
     "url": "https://raw.githubusercontent.com/dannysupple/dannysupple.github.io/main/test(1).csv"
   },
+  "width": 340,
+  "height": 340,
   "mark": "point",
   "encoding": {
     "x": {"field": "points", "type": "quantitative"},
