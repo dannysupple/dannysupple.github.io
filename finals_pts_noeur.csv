@@ -1,0 +1,40 @@
+﻿Country,GDP per capita,Population (millions),Expenditure/GDP,"GDP(PPP, thousand millions)",Voice and Accountability index,Points,Continent
+Algeria,10969.25,44.462,37.128,535.8,-1.01,12,Africa
+Angola,6344.15,31.962,19.394,222.77,-0.84,2,Africa
+Cameroon,3707.7,27.224,16.523,110.89,-1.16,23,Africa
+CÙte d'Ivoire,5286.96,27.659,20.859,160.65,-0.47,10,Africa
+Egypt,12976.29,102.1,25.965,1455.5,-1.51,2,Africa
+Ghana,5684.34,31.394,25.681,196.05,0.47,18,Africa
+Morocco,8353.36,36.313,30.123,333.242,-0.61,22,Africa
+Nigeria,4969.21,211.401,13.297,"1,154.07",-0.64,21,Africa
+Senegal,3429.06,17.204,25.739,64.81,0.19,18,Africa
+South Africa,13145.76,22.156,32.976,868.58,0.79,10,Africa
+Togo,2163.58,8.49,22.952,20.18,-0.79,0,Africa
+Tunisia,10481.46,12.019,33.184,138.39,0.19,14,Africa
+Australia,51349.49,25.767,42.318,1453.55,1.38,16,Asia
+China,17531.14,"1,412.60",32.713,"27,206.09",-1.64,0,Asia
+Islamic Republic of Iran,15549.76,84.841,12.378,1449.33,-1.47,13,Asia
+Israel,42471.84,9.367,40.388,437.08,0.68,2,Asia
+Japan,40662.24,125.507,42.52,5606.55,1.08,27,Asia
+Korea,44286.73,51.736,25.845,2517.13,0.93,31,Asia
+New Zealand,42409.43,5.112,42.409,238.148,1.62,3,Asia
+Qatar,95340.3,2.618,29.377,274.249,-1.17,0,Asia
+Saudi Arabia,44954.01,35.459,33.238,1751.18,-1.59,14,Asia
+United Arab Emirates,64697.99,10.187,28.896,724.07,-1.19,0,Asia
+Canada,48218.96,38.226,46.001,2024.96,1.46,0,North and Central America
+Costa Rica,20536.95,5.18,20.95,116.87,1.09,23,North and Central America
+Jamaica,9899.3,2.74,29.503,29.8,0.63,3,North and Central America
+Mexico,18837.56,128.972,27.073,2669.06,-0.07,66,North and Central America
+Trinidad and Tobago,24465.91,1.407,32.196,37.81,0.67,1,North and Central America
+United States,63014.33,332.183,42.364,"22,996.08",0.9,35,North and Central America
+Argentina,21511.59,45.842,37.832,1083.36,0.62,157,South America
+Bolivia,8242.89,11.8,34.398,106.86,-0.11,1,South America
+Brazil,14710.22,212.609,35.942,3435.87,0.28,247,South America
+Chile,24311.6,19.718,33.466,526.64,0.97,40,South America
+Colombia,14931.36,51.049,34.513,837.39,0.1,30,South America
+Ecuador,10693.41,17.757,35.51,208.6,0.11,17,South America
+Honduras,5661.24,10.117,28.424,62.92,-0.59,3,South America
+Panama,29130.71,4.337,24.829,138.809,0.55,0,South America
+Paraguay,12490.78,7.353,25.309,100.9,0.01,31,South America
+Peru,12764.3,33.829,23.551,474.37,0.18,18,South America
+Uruguay,22058.27,3.543,30.918,85.86,1.3,88,South America
