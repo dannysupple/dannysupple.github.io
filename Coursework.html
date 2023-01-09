@@ -1,0 +1,263 @@
+<html>
+
+<head>
+   
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Coursework</title>
+    <!--The next three lines allow the Vega embed-->
+    <script src="https://cdn.jsdelivr.net/npm/vega"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed"></script>
+
+
+    <!-- Link to my style sheet -->
+ 
+    <link rel="stylesheet" href="Coursework.css">
+
+    <!-- Buttons -->
+ <body>
+    <div class="wrap">    
+    <a href="https://rapidcharts.io/datascience" id="link1">COURSE</a>
+    <a href="index.html" id="link3">HOME</a>
+     <a href="portfolio2.html" id="link2">PORTFOLIO</a>
+     <a href="https://github.com/dannysupple" id="link4">GITHUB</a> 
+     </div>
+        
+<!-- Header -->
+<div class="headwrap">
+<head>
+<h1>Coursework</h1> 
+<p> Danny Supple | 1941103 </p>
+</head>
+</div>
+    
+    
+
+    
+ 
+    
+    <h1>Which factors determine the probability of World Cup success?</h1>  
+
+    <p>The aim of this project is to determine which factors, outside of the game, have the biggest impact on a nation's 
+        success in the World Cup.
+    </p>
+    <!-- Different classes for each section for CSS -->
+    <div class="wrap2">
+    <h2>An overview of the most succesful teams in World Cup finals history.<h2>
+  
+
+    <p>This bar chart shows the total points obtained by each country in all the World Cup finals tournaments.
+           This project will be using a consistent points system of: win=3, draw=1, loss=0. 
+         <p>Chart 1</p>   
+        </p>
+        <!-- Different containers for each chart to help positioning -->
+        <container class="a_container2">
+        <div class="chart1" id="Chart1">
+         <script>
+        var myChart1 = "chart_finals_continent_selector.json ";
+        vegaEmbed('#Chart1', myChart1);
+         </script>
+        </div>
+        </container> 
+
+    <p>From the chart above we observe that 
+        European teams have historically dominated the tournaments, however 3 of the top 10 spots are South American countries, with Brazil accumulating 
+        the highest total.  </p>
+
+    </div>
+
+    <div class="wrap3">
+    <h3>South American success<h3>
+        <p> South American success could be explained looking at the chloropleth map below of World Cup appearances, compared 
+            with Spanish and Portugese colonies.
+             In addition to the South American countries, we also observe the same pattern 
+             with parts of North Africa along with Central and North America. 
+        </p>
+    <container class="a_container7">
+    <p>World Cup finals appearances<p>
+        <p>Chart 2</p>  
+    <div class="chartmap1" id="Chart2">
+    <script>
+        var myChart2 = "map_wcapps(1).json";
+        vegaEmbed('#Chart2', myChart2);
+        </script>
+        </div>
+        </container> 
+        <container class="a_container7">
+        <p>Spanish and Portugese colonies<p>
+            <p>1800s</p>
+        <div class="chartmap2" id="Chart3"> 
+        <script>
+        var myChart3 = "map_spa_por.json";
+        vegaEmbed('#Chart3', myChart3);
+        </script>
+        </div> 
+        </container> 
+
+
+    </div>
+    
+   
+   
+   
+   
+    <div class="wrap4">
+     <h4>The relationship between economic factors and World Cup qualification</h4>     
+    <h2>World Cup qualifying<h2>
+
+   <p>This scatter chart contains a selector which enables us to compare the correlation between 
+     World Cup success and five economic variables. </p>
+     <p>Chart 3</p>  
+        <container class="a_container2">
+       
+        <div class="chart4" id="Chart4">
+         <script>
+        var myChart4 = "chart_complete_wc_qualifying_selector.json";
+        vegaEmbed('#Chart4', myChart4);
+         </script>
+        </div>
+        </container> 
+
+        <p> When I ran regressions of average points per game
+        on all 5 of these variables, GDP (PPP) had an R squared with the highest magnitude (0.23). The other variables
+    had a negligible correlation.
+   </p>
+  <container class="a_container2">
+
+
+       
+    <p>A closer look at the World Cup qualifying record of European countries
+    </p>
+    <p>This bubble chart shows the qualifying record for all European countries since 1930, compared with 
+        both their GDP and population. </p>
+        <p>Chart 4</p>  
+    <div class="chart5" id="Chart5">
+     <script>
+    var myChart5 = "final_bubble.json";
+    vegaEmbed('#Chart5', myChart5);
+     </script>
+    </div>
+    </container> 
+    </div>
+
+    <div class="wrap5">
+        <h4>World Cup finals</h4>     
+       <h2>The relationship between economic factors success in World Cup finals tournaments<h2>
+   
+      <p>I did not use average points in finals is because the results could have been skewed by nations who were successful in small number of tournaments, 
+as opposed to consistent success throughout history.  </p>
+<p>Chart 5</p>  
+           <container class="a_container2">
+          
+           <div class="chart6" id="Chart6">
+            <script>
+           var myChart6 = "complete_chart_finals_project_selector.json";
+           vegaEmbed('#Chart6', myChart6);
+            </script>
+           </div>
+           </container> 
+    <p>GDP, GDP per capita and population all have an R squared of roughly 0.30, when regressed on total points. These relationships are 
+        expected as they would result in a larger talent pool and better infrastructure. An interesting observation is the relationship between
+         the Voice and Accountability Index and World Cup success, a measure of political freedoms within a society. 
+    </p>
+       
+     <h5>A closer look at the effect of each economic variable<h5>
+        <p>Chart 6</p> 
+       
+        <container class="a_container1">
+        <p>This chart shows the difference between the averages of the total points in World Cup finals, 
+            once the countries have been divided into tertiles.  </p>
+        <div class="chart7" id="Chart7">
+        <script>
+         var myChart7 = "chart_thirds_finals.json";
+         vegaEmbed('#Chart7', myChart7);
+         </script>
+         </div>
+         </container> 
+
+         <p>Chart 6 could suggest a nations wealth
+            and size only starts to contribute positively to footballing success past a certain point. We also observe large improvements
+            in World Cup success between each group for Voice and Accountability.
+         </p>
+        </div>
+
+
+        
+         <div class="containerpng">
+            <h1>Chart 7</h1> 
+            <img src="regression.png">
+            <p>I used vega-lite to run my regressions in order to obtain the R-squared figure, however for Chart 7 I used excel 
+                to create the visualisation. 
+            </p>
+    
+         </div>
+      
+               
+ 
+
+    <div class="wrap6">
+    <h5>Outliers<h5>  
+        <p>For my final chart I demonstrate the extent to which China, USA and 
+            India are outliers. Here we have 3 of the most succesful World Cup teams 
+         compared with the outlying countries. All three of our outliers
+        have a population and GDP within the 5 highest in the world, as you can see their World Cup records 
+        are incomparible to three significantly smaller nations. 
+        <p>Chart 8</p>
+     <container class="a_container">
+     <div class="chart8" id="Chart8">
+     <script>
+    var myChart8 = "chart_selector_outliers_bar.json";
+    vegaEmbed('#Chart8', myChart8);
+    </script>
+     </div>
+    </container>
+</div>
+
+
+        
+    
+<div class="wrap6">
+
+    <h1>Colab notebooks</h1>
+    <!-- Links to each colab notebook -->
+    <p><a href="https://colab.research.google.com/drive/18HLUZJaQ0x4eshgmpBVJB-YLE5zNwvqa#scrollTo=5oQrexFW3C18" id="link5">World cup points</a> by continent
+        for the first chart. </p>
+    <p><a href="https://colab.research.google.com/drive/1PotMuZ1yY9mXFibUS3JYqTY5aa5P7tvY" id="link5">WC appearances</a> for the chloropleth map.</p>
+    <p>These are the 5 is the Colab notebooks in which I scraped, cleaned and merged the data for all the 5 variables which I have focused on in my project. 
+        </p>
+    <p><a href="https://colab.research.google.com/drive/1v5HZq8aQ9G9Yj2sl8jAuu9UWmeYXIDLz#scrollTo=C_ufDlGaz2O-" id="link5">GDP</a> </p>
+    <p><a href="https://colab.research.google.com/drive/1gxrlHuF7RqbngUrhs8oSgFRx1YQpr7AV#scrollTo=k_2bgbiv2jXW" id="link5">GDP per capita</a> </p>
+    <p><a href="https://colab.research.google.com/drive/159PkcwxgKdBiMShwVhEvErD0c9P8QfPz#scrollTo=7Mwwue7p_L0-" id="link5">Voice and Accountability</a> </p>
+    <p><a href="https://colab.research.google.com/drive/1hy0Ni8jJVJvZVB-o9zkijopATpnGArfQ#scrollTo=3Ry9iJVIE2-c" id="link5">Government expenditure</a> </p>
+    <p><a href="https://colab.research.google.com/drive/1x5QD-iIw-8nVj1rHJbVAS2-i78kVQcei#scrollTo=8JOZxOyAGWR6" id="link5">Population</a> </p>
+
+
+
+    <h1>The data</h1>
+<p>I did not use any APIs in my project as the World Cup competitions are isolated events which take place
+  every 4 years, therefore automation did not seem neccessary. Furthermore, for consistency I used the latest data for 
+all economic metrics. The reason for this, is a country's performance in a World Cup is unlikely to be affected
+by their economic at the time of the competition, instead the results arising from economic factors are 
+likely to have a significant lag. My data sources were: Wikipedia, Statistics Times, Worldometers and WorldBank. </p>
+
+
+<p>There would be inconsistencies between continents if average qualifying points 
+    is the main metric I used to determine footballing success, this is the reason I chose total World Cup finals points as my main measure of success.
+I have also excluded population and GDP data from China, India, and USA in the scatter graphs
+as they are significant outliers and therefore reduce the quality of the visualisation.  </p>
+
+
+<h1>Conclusions</h1>
+<p>Due to the unpredictable nature of football, with a large proportion of results coming down to luck, it would be unrealistic to expect
+high correlations between economic variables and overall World Cup success. However, this project has demonstrated that population, wealth
+of a nation and potentially political freedoms all contribute to how successful a country is in the World Cup. Granted, we only have to look 
+as far as three of the largest and wealthiest nations to see these economic factors are likely to only have a small impact.</p>
+
+
+    
+  
+    
+   
